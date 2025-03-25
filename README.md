@@ -1,6 +1,5 @@
-<!-- Profile badges -->
 <p align="center">
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-1337K-blueviolet?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Profile%20Views-56,463-blueviolet?style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
