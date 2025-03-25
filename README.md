@@ -47,7 +47,7 @@
 ---
 
 ### ⚡ Fun Fact
-> I once built a bot that could connect wallets, sign on-chain transactions, and farm referral points… while I slept 😴
+> I once built a bot that could connect wallets, sign on-chain transactions, and farm referral points… while I slept 😴 (Crypto Project)
 
 ---
 
