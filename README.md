@@ -1,6 +1,6 @@
 <!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityapatil343&label=Profile+Views&color=0e75b6&style=flat" alt="adityapatil343" />
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-1337K-blueviolet?style=for-the-badge)
   <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
