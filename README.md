@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-56,463-blueviolet?style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Profile%20Views-56,463-purple?style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Aditya Patil</h1>
