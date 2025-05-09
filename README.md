@@ -24,11 +24,10 @@
     🛡️ Cybersecurity Student &nbsp;|&nbsp; 🧠 Slow Learner, Fast Builder &nbsp;|&nbsp; 🚀 Blockchain Dev &nbsp;|&nbsp; 🤖 Automation Wizard
   </strong>
 </p>
+
 <br>
 
 # 💻 Tech Stack: 
-
-# 💻 Tech Stack  
 
 ### **Languages & Development**:  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Advanced Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)  
