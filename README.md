@@ -29,18 +29,6 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat-square) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white)
 
-## 🚀 Projects I'm Proud Of  
-- 🔗 **t3rn-auto-bridge**: Cross-chain transaction tool powered by Python  
-  [![t3rn-auto-bridge](https://raw.githubusercontent.com/YourUser/t3rn-auto-bridge/main/preview.gif)](https://github.com/YourUser/t3rn-auto-bridge)  
-
-- 🤖 **Auto Referral Bot**: Fully automated wallet connector, signer & referral claimer — Web3 automation on steroids  
-  [![Auto Referral Bot](https://raw.githubusercontent.com/YourUser/auto-referral-bot/main/preview.gif)](https://github.com/YourUser/auto-referral-bot)  
-
-- 🧾 **Blockchain-Based Data Integrity System (Final Year Project)**: Merging IPFS + NFTs + Smart Contracts for secure file sharing  
-  [![Data Integrity System](https://raw.githubusercontent.com/YourUser/Data-Integrity-System/main/preview.gif)](https://github.com/YourUser/Data-Integrity-System)  
-
-## ⚡ Fun Fact  
-I once built a bot that could connect wallets, sign on-chain transactions, and farm referral points… while I slept 😴 (Crypto Project)
 
 ## 🔥 GitHub Stats  
 <p align="center">
@@ -48,24 +36,17 @@ I once built a bot that could connect wallets, sign on-chain transactions, and f
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
 </p>
 
-## Built with ❤️ by Aadu / Aadiii.
 
 ## 🐍 Snake Contributions  
 <p align="center">
   <img src="https://github.com/adityapatil343/adityapatil343/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-## 💡 About Me  
-- 🧑‍💻 Currently diving into Cybersecurity, Web3 & Blockchain  
-- 🤖 I build automation bots in Python  
-- 🎯 Exploring Red Teaming & Smart Contract Auditing  
-- 💬 DM me to collaborate on Web3 projects  
 
 ## 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/adityapatil343)  
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](mailto:aditya.patil343@example.com)  
 
-## Bot at Work While I Sleep  
 ![Bot at Work While I Sleep](https://cdn.pixabay.com/photo/2016/12/10/22/28/technology-1898339_1280.jpg)  
 
