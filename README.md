@@ -21,23 +21,6 @@
 
 ---
 
-## 🎧 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Now Playing" />
-</p>
-
-<!-- Alternative: Now Watching on YouTube -->
-<!--
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img width="480" alt="Now Watching" src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg">
-  </a>
-</p>
--->
-
----
-
 ## 🔥 GitHub Stats
 
 <p align="center">
@@ -62,3 +45,11 @@
 - 🎯 Exploring Red Teaming & Smart Contract Auditing
 - 💬 DM me to collaborate on Web3 projects
 - 🌐 Portfolio: [Your Link Here]
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil343&layout=pie&theme=radical" />
+</p>
