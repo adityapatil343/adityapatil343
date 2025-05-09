@@ -27,6 +27,7 @@
 
 
 ## 🛠️ Tech Stack
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,27 +43,32 @@
       padding: 20px;
       text-align: center;
     }
+
     h2 {
       font-size: 2rem;
       margin-bottom: 30px;
     }
+
     .tech-stack {
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
-      gap: 40px;
+      gap: 30px;
     }
+
     .tech-item {
       text-align: center;
     }
+
     .tech-item img {
       width: 40px;
       height: 40px;
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }
+
     .tech-item sub {
       display: block;
-      font-size: 0.85rem;
+      font-size: 0.8rem;
       color: #ccc;
     }
   </style>
@@ -120,6 +126,7 @@
 
 </body>
 </html>
+
 
 ## 🚀 Projects I'm Proud Of  
 - 🔗 **t3rn-auto-bridge**: Cross-chain transaction tool powered by Python  
