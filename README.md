@@ -30,7 +30,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>
       <sub>Python</sub>
