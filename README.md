@@ -1,12 +1,12 @@
+<!-- Typing Intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Patil+%F0%9F%91%8B" alt="Typing SVG" />
+</h2>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/adityapatil343/adityapatil343/blob/main/banner.gif" width="100%" />
 </p>
-
-<!-- Typing Intro -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Patil+%F0%9F%91%8B;Cybersecurity+%7C+Web3+%7C+Automation+Nerd;Currently+learning+Solidity+and+Red+Teaming" alt="Typing SVG" />
-</h2>
 
 <!-- Badges -->
 <p align="center">
