@@ -56,7 +56,7 @@
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](mailto:aditya.patil343@example.com)  
 
-![Bot at Work While I Sleep](https://cdn.pixabay.com/photo/2016/12/10/22/28/technology-1898339_1280.jpg)
+![flex](https://pixabay.com/illustrations/body-tattoos-dark-moody-9589408/)
 
 <br>
 
