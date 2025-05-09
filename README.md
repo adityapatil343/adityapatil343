@@ -61,8 +61,9 @@
 <p align="center">
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  <br><br>
   <sub>🔄 Refresh the page to see a new quote</sub>
-  <a href="">🔄 Click here to refresh and get a new quote</a>
+  <a href="">
+🔄 Click here to refresh and get a new quote
+  </a>
 </p>
 
