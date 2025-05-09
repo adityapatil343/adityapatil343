@@ -7,48 +7,59 @@
   <img src="https://github.com/adityapatil343/adityapatil343/blob/main/banner.gif" width="100%" />
 </p>
 
-<!-- Badges -->
+# Profile Views GitHub Followers
+
+## Hey 👋 I'm Aditya Patil  
+🛡️ Cybersecurity Student | 🧠 Slow Learner, Fast Builder | 🚀 Blockchain Dev | 🤖 Automation Wizard  
+
+## 👨‍💻 About Me
+- 🔐 Currently diving deep into Cyber Security & Cloud Security  
+- 🧠 Building Web3 Bots, NFT utilities, and exploring decentralized storage  
+- ⚙️ Love automating boring stuff using Python + Playwright + Web3  
+- 📚 Working on a Blockchain-based Data Integrity System for academic + real-world use 💾  
+
+## 🛠️ Tech Stack  
 <p align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/yourhandle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=adityapatil343&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,solidity,linux&theme=dark" alt="Tech Stack Icons">
 </p>
 
----
+## 🚀 Projects I'm Proud Of  
+- 🔗 **t3rn-auto-bridge**: Cross-chain transaction tool powered by Python  
+  [![t3rn-auto-bridge](https://raw.githubusercontent.com/YourUser/t3rn-auto-bridge/main/preview.gif)](https://github.com/YourUser/t3rn-auto-bridge)  
 
-## 🔥 GitHub Stats
+- 🤖 **Auto Referral Bot**: Fully automated wallet connector, signer & referral claimer — Web3 automation on steroids  
+  [![Auto Referral Bot](https://raw.githubusercontent.com/YourUser/auto-referral-bot/main/preview.gif)](https://github.com/YourUser/auto-referral-bot)  
 
+- 🧾 **Blockchain-Based Data Integrity System (Final Year Project)**: Merging IPFS + NFTs + Smart Contracts for secure file sharing  
+  [![Data Integrity System](https://raw.githubusercontent.com/YourUser/Data-Integrity-System/main/preview.gif)](https://github.com/YourUser/Data-Integrity-System)  
+
+## ⚡ Fun Fact  
+I once built a bot that could connect wallets, sign on-chain transactions, and farm referral points… while I slept 😴 (Crypto Project)
+
+## 🔥 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
 </p>
 
----
+## Built with ❤️ by Aadu / Aadiii.
 
-## 🐍 Snake Contributions
-
+## 🐍 Snake Contributions  
 <p align="center">
   <img src="https://github.com/adityapatil343/adityapatil343/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
+## 💡 About Me  
+- 🧑‍💻 Currently diving into Cybersecurity, Web3 & Blockchain  
+- 🤖 I build automation bots in Python  
+- 🎯 Exploring Red Teaming & Smart Contract Auditing  
+- 💬 DM me to collaborate on Web3 projects  
 
-## 💡 About Me
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/adityapatil343)  
+- [Instagram](https://www.instagram.com/adityapatil343)  
+- [Email](mailto:aditya.patil343@example.com)  
 
-- 🧑‍💻 Currently diving into Cybersecurity, Web3 & Blockchain
-- 🤖 I build automation bots in Python
-- 🎯 Exploring Red Teaming & Smart Contract Auditing
-- 💬 DM me to collaborate on Web3 projects
-- 🌐 Portfolio: [Your Link Here]
+## Bot at Work While I Sleep  
+![Bot at Work While I Sleep](https://cdn.pixabay.com/photo/2016/12/10/22/28/technology-1898339_1280.jpg)  
 
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil343&layout=pie&theme=radical" />
-</p>
