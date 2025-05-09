@@ -54,7 +54,7 @@
 ## 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/adityapatil343)  
 - [Instagram](https://www.instagram.com/adityapatil343)  
-- [Email](mailto:aditya.patil343@example.com)  
+- [Email](bapuji1761@gmail.com)  
 
 <br>
 
