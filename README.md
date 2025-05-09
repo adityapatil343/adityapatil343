@@ -28,9 +28,7 @@
 
 ## 🛠️ Tech Stack
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
+<p>
   <span style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>
     <sub>Python</sub>
