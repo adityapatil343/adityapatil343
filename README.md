@@ -25,6 +25,7 @@
   </strong>
 </p>
 
+---
 
 ## 🛠️ Tech Stack  
 <p align="center">
