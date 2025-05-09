@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="justify">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br><sub>Python</sub>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/><br><sub>JavaScript</sub>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/><br><sub>Node.js</sub>
