@@ -20,7 +20,9 @@
 - 📚 Final-year project: Blockchain-based Data Integrity System 💾
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Student+%7C+%F0%9F%A7%A0+Slow+Learner%2C+Fast+Builder+%7C+%F0%9F%9A%80+Blockchain+Dev+%7C+%F0%9F%A4%96+Automation+Wizard" alt="Typing SVG" />
+  <strong>
+    🛡️ Cybersecurity Student &nbsp;|&nbsp; 🧠 Slow Learner, Fast Builder &nbsp;|&nbsp; 🚀 Blockchain Dev &nbsp;|&nbsp; 🤖 Automation Wizard
+  </strong>
 </p>
 
 
