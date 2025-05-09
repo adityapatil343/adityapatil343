@@ -56,7 +56,7 @@
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](mailto:aditya.patil343@example.com)  
 
-![flex](https://pixabay.com/illustrations/body-tattoos-dark-moody-9589408/)
+![Me](https://pixabay.com/illustrations/body-tattoos-dark-moody-9589408/)
 
 <br>
 
