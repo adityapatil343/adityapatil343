@@ -43,29 +43,24 @@
       padding: 20px;
       text-align: center;
     }
-
     h2 {
       font-size: 2rem;
       margin-bottom: 30px;
     }
-
     .tech-stack {
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
       gap: 30px;
     }
-
     .tech-item {
       text-align: center;
     }
-
     .tech-item img {
       width: 40px;
       height: 40px;
       margin-bottom: 6px;
     }
-
     .tech-item sub {
       display: block;
       font-size: 0.8rem;
