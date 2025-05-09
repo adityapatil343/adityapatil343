@@ -56,8 +56,6 @@
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](mailto:aditya.patil343@example.com)  
 
-![Me](https://github.com/adityapatil343/adityapatil343/blob/main/img/xyz34.png)
-
 <br>
 
  ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
