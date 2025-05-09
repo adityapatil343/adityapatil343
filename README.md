@@ -1,69 +1,64 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-56,463-purple?style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://github.com/adityapatil343/adityapatil343/blob/main/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">Hey 👋 I'm Aditya Patil</h1>
+<!-- Typing Intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Patil+%F0%9F%91%8B;Cybersecurity+%7C+Web3+%7C+Automation+Nerd;Currently+learning+Solidity+and+Red+Teaming" alt="Typing SVG" />
+</h2>
 
+<!-- Badges -->
 <p align="center">
-  🛡️ Cybersecurity Student | 🧠 Slow Learner, Fast Builder | 🚀 Blockchain Dev | 🤖 Automation Wizard
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🔐 Currently diving deep into **Cyber Security** & **Cloud Security**
-- 🧠 Building **Web3 Bots**, **NFT utilities**, and exploring **decentralized storage**
-- ⚙️ Love automating boring stuff using **Python + Playwright + Web3**
-- 📚 Working on a Blockchain-based Data Integrity System for academic + real-world use 💾
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=green)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🚀 Projects I'm Proud Of
-
-- 🔗 [**t3rn-auto-bridge**](https://github.com/adityapatil343/t3rn-auto-bridge): Cross-chain transaction tool powered by Python
-- 🤖 Auto Referral Bot: Fully automated wallet connector, signer & referral claimer — Web3 automation on steroids
-- 🧾 Blockchain-Based Data Integrity System (Final Year Project): Merging IPFS + NFTs + Smart Contracts for secure file sharing
-
----
-
-### 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aditya-patil-044876276/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/adityapatil343/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adityapatil3434ap@gmail.com)
-
----
-
-### ⚡ Fun Fact
-> I once built a bot that could connect wallets, sign on-chain transactions, and farm referral points… while I slept 😴 (Crypto Project)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" alt="GitHub Streak" />
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/yourhandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=adityapatil343&style=for-the-badge&color=blueviolet&label=Profile+Views" />
 </p>
 
 ---
 
-*Built with ❤️ by Aadu / Aadiii .*
+## 🎧 Now Playing
 
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Now Playing" />
+</p>
 
-<!---
-adityapatil343/adityapatil343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Alternative: Now Watching on YouTube -->
+<!--
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img width="480" alt="Now Watching" src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg">
+  </a>
+</p>
+-->
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
+</p>
+
+---
+
+## 🐍 Snake Contributions
+
+<p align="center">
+  <img src="https://github.com/adityapatil343/adityapatil343/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 💡 About Me
+
+- 🧑‍💻 Currently diving into Cybersecurity, Web3 & Blockchain
+- 🤖 I build automation bots in Python
+- 🎯 Exploring Red Teaming & Smart Contract Auditing
+- 💬 DM me to collaborate on Web3 projects
+- 🌐 Portfolio: [Your Link Here]
