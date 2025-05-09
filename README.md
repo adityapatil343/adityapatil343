@@ -32,7 +32,7 @@
 
 ## 🐍 Snake Contributions  
 <p align="center">
-  <img src="https://github.com/adityapatil343/adityapatil343/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/adityapatil343/adityapatil343/raw/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 
