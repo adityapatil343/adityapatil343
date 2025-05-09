@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Patil+%F0%9F%91%8B" alt="Typing SVG" />
 </h2>
 
-<!-- Banner -->
 <p align="center">
   <img src="https://github.com/adityapatil343/adityapatil343/blob/main/banner.gif" width="100%" />
 </p>
