@@ -26,55 +26,8 @@
 </p>
 
 
-## 🛠️ Tech Stack
-
-<p>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/><br>
-    <sub>Python</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/><br>
-    <sub>JavaScript</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/><br>
-    <sub>Node.js</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40px"/><br>
-    <sub>Solidity</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40px"/><br>
-    <sub>Playwright</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/><br>
-    <sub>Linux</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/><br>
-    <sub>Git</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/><br>
-    <sub>GitHub</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/><br>
-    <sub>Docker</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/><br>
-    <sub>Figma</sub>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40px"/><br>
-    <sub>VS Code</sub>
-  </span>
-</p>
-
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat-square&logo=quasar&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat-square) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white)
 
 ## 🚀 Projects I'm Proud Of  
 - 🔗 **t3rn-auto-bridge**: Cross-chain transaction tool powered by Python  
