@@ -7,7 +7,10 @@
   <img src="https://github.com/adityapatil343/adityapatil343/blob/main/banner.gif" width="100%" />
 </p>
 
-# Profile Views GitHub Followers
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-56,463-purple?style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+</p>
 
 ## Hey 👋 I'm Aditya Patil  
 🛡️ Cybersecurity Student | 🧠 Slow Learner, Fast Builder | 🚀 Blockchain Dev | 🤖 Automation Wizard  
