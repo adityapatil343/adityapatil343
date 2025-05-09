@@ -12,14 +12,17 @@
   <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
-## Hey 👋 I'm Aditya Patil  
-🛡️ Cybersecurity Student | 🧠 Slow Learner, Fast Builder | 🚀 Blockchain Dev | 🤖 Automation Wizard  
-
 ## 👨‍💻 About Me
-- 🔐 Currently diving deep into Cyber Security & Cloud Security  
-- 🧠 Building Web3 Bots, NFT utilities, and exploring decentralized storage  
-- ⚙️ Love automating boring stuff using Python + Playwright + Web3  
-- 📚 Working on a Blockchain-based Data Integrity System for academic + real-world use 💾  
+- 🔐 Exploring Cybersecurity, Cloud Security & Blockchain
+- 🤖 Automating life with Python, Playwright & Web3
+- 🧠 Building Web3 Bots, NFT tools & secure storage systems
+- 🎯 Into Red Teaming & Smart Contract Auditing
+- 📚 Final-year project: Blockchain-based Data Integrity System 💾
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Student+%7C+%F0%9F%A7%A0+Slow+Learner%2C+Fast+Builder+%7C+%F0%9F%9A%80+Blockchain+Dev+%7C+%F0%9F%A4%96+Automation+Wizard" alt="Typing SVG" />
+</p>
+
 
 ## 🛠️ Tech Stack  
 <p align="center">
