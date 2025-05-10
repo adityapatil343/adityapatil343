@@ -1,0 +1,22 @@
+name: Update Random Quote
+on:
+  schedule:
+    - cron: '0 * * * *' # Updates hourly
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate random quote
+        id: random-quote
+        run: |
+          QUOTES_FILE='.github/data/quotes.json'
+          QUOTE=$(jq -r '.quotes | .[$(shuf -i 0-$(($(jq ".quotes | length" $QUOTES_FILE)-1)) -n 1)]' $QUOTES_FILE)
+          echo "RANDOM_QUOTE_TEXT=$(echo $QUOTE | jq -r '.text')" >> $GITHUB_OUTPUT
+          echo "RANDOM_QUOTE_AUTHOR=$(echo $QUOTE | jq -r '.author')" >> $GITHUB_OUTPUT
+      - name: Update README
+        run: |
+          sed -i "s|<!-- QUOTE_START -->.*<!-- QUOTE_END -->|<!-- QUOTE_START -->\n**\"${{ steps.random-quote.outputs.RANDOM_QUOTE_TEXT }}\"**\n\n*- ${{ steps.random-quote.outputs.RANDOM_QUOTE_AUTHOR }}*\n<!-- QUOTE_END -->|" README.md
+      - uses: stefanzweifel/git-auto-commit-action@v5
