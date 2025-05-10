@@ -62,8 +62,7 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies (Achievements)
 
 <div align="center">
   <img 
