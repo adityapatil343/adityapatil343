@@ -77,8 +77,8 @@
 
 ## 💬 Daily Inspiration (quotes)
 <!-- Dynamic quote section - auto-updates daily -->
-**"Programming is not easy like Sunday morning, it is silent poetry."**
-*- Anonymous*
+**"Everything that can be invented has been invented."**
+*- Charles H. Duell*
 🔄 *This quote updates automatically every 24 hours*
 
 <details>
