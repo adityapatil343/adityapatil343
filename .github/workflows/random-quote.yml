@@ -1,7 +1,8 @@
 name: Daily Quote Update
+
 on:
   schedule:
-    - cron: '0 0 * * *'  # Midnight UTC daily
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 permissions:
@@ -12,32 +13,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install jq
+        run: sudo apt-get install jq
 
       - name: Get random quote
         id: quote
         run: |
-          QUOTE=$(jq -r '.quotes[input_line_number] | "\(.text)|\(.author)"' \
-            --argjson input_line_number $(( RANDOM % $(jq '.quotes | length' .github/data/quotes.json) )) \
-            .github/data/quotes.json)
+          TOTAL_QUOTES=$(jq '.quotes | length' .github/data/quotes.json)
+          RANDOM_INDEX=$(( RANDOM % TOTAL_QUOTES ))
+          QUOTE=$(jq -r ".quotes[$RANDOM_INDEX] | \"\(.text)|\(.author)\"" .github/data/quotes.json)
           IFS='|' read -r TEXT AUTHOR <<< "$QUOTE"
-          echo "text=${TEXT}" >> $GITHUB_OUTPUT
-          echo "author=${AUTHOR}" >> $GITHUB_OUTPUT
+          echo "text=$TEXT" >> $GITHUB_OUTPUT
+          echo "author=$AUTHOR" >> $GITHUB_OUTPUT
 
-      - name: Update README
+      - name: Update README with quote
         run: |
-          # Just wrap existing content in a styled div
-          UPDATED_CONTENT=$'<div style="border: 1px solid #30363d; padding: 16px; border-radius: 6px; margin: 16px 0; background: #0d1117;">\n'"$(awk '/## 💬 Daily Inspiration/,/<\/details>/' README.md)"$'\n</div>'
+          TEXT="${{ steps.quote.outputs.text }}"
+          AUTHOR="${{ steps.quote.outputs.author }}"
 
-          # Preserve everything outside the quote section
-          awk -v new="$UPDATED_CONTENT" '
-            BEGIN {p=1; replaced=0}
-            /## 💬 Daily Inspiration/ {print new; replaced=1; p=0}
-            /<\/details>/ {p=1; next}
-            !replaced
-          ' README.md > tmp.md && mv tmp.md README.md
+          # Escape special characters for sed
+          ESCAPED_TEXT=$(printf '%s\n' "$TEXT" | sed 's/[&/\]/\\&/g')
+          ESCAPED_AUTHOR=$(printf '%s\n' "$AUTHOR" | sed 's/[&/\]/\\&/g')
+
+          # Replace the quote and author in README.md
+          sed -i -E "s/^> \*\*\\\".*\\\"\*\*/> **\\\"$ESCAPED_TEXT\\\"**/" README.md
+          sed -i -E "s/^> — \*.*\*/> — *$ESCAPED_AUTHOR*/" README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "💄 Added box styling to quotes"
+          commit_message: "🔄 Updated daily quote"
