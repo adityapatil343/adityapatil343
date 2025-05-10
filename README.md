@@ -63,15 +63,14 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <!-- Wave Background -->
-  <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/wave-bg.svg" width="100%"/>
-  
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-bg=true" width="100%"/>
-  
-  <!-- Snake Animation -->
+<div align="center" style="position:relative;">
+  <!-- Background Animation (Snake/Wave) -->
   <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/github-contribution-snake.svg" width="100%"/>
+  
+  <!-- Trophies Overlay (Improved Visibility) -->
+  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:80%; background:rgba(15,25,40,0.7); border-radius:10px; padding:15px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&margin-w=30&margin-h=15" width="100%"/>
+  </div>
 </div>
 <br>
 
