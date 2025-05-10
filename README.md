@@ -63,10 +63,10 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=radical&no-frame=true&no-bg=true" alt="Trophies" style="border-radius: 10px; box-shadow: 0 0 15px #6e5494;" />
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/trophy-animated-bg.svg" width="800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true" width="800" />
+</div>
 <br>
 
 ## 📫 Let’s Connect  
