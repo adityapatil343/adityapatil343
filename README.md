@@ -23,11 +23,11 @@
 - 🎯 Into Red Teaming & Smart Contract Auditing
 - 📚 Final-year project: Blockchain-based Data Integrity System 💾
 
- <h4 align="center">
+ <p align="center">
   <strong>
     🛡️ Cybersecurity Student &nbsp;|&nbsp; 🧠 Slow Learner, Fast Builder &nbsp;|&nbsp; 🚀 Blockchain Dev &nbsp;|&nbsp; 🤖 Automation Wizard
   </strong>
-</h4>
+</p>
 
 <br>
 
