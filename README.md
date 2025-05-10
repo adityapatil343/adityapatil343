@@ -75,6 +75,7 @@
 
 <br>
 
+<div style="border: 1px solid #30363d; padding: 16px; border-radius: 6px; margin: 16px 0; background: #0d1117;">
 ## 💬 Daily Inspiration
 
 > **"Everything that can be invented has been invented."**  
@@ -91,4 +92,5 @@
 🔹 **Schedule**: Updates at 00:00 UTC daily  
 🔹 **Total Quotes**: Currently featuring 50+ inspirational quotes  
 
+</div>
 </div>
