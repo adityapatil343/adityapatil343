@@ -75,16 +75,19 @@
 
 <br>
 
-## 💬 Daily Inspiration (quotes)
-<!-- Dynamic quote section - auto-updates daily -->
-**"Everything that can be invented has been invented."**
-*- Charles H. Duell*
-🔄 *This quote updates automatically every 24 hours*
+## 💬 Daily Inspiration
+
+> **"Everything that can be invented has been invented."**  
+> — *Charles H. Duell*  
+>  
+> 🔄 *Automatically refreshes every 24 hours*
 
 <details>
-<summary>ℹ️ How these quotes work (expand for more detail)</summary>
+<summary>ℹ️ About this feature (click to expand)</summary>
 
-🔹 **Auto-rotating**: A new random quote appears daily
-🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)
-🔹 **Update time**: Changes occur around midnight UTC
+🔹 **Daily Rotation**: Fresh quote selected automatically  
+🔹 **Source**: Curated collection in [`quotes.json`](.github/data/quotes.json)  
+🔹 **Schedule**: Updates at 00:00 UTC daily  
+🔹 **Total Quotes**: Currently featuring 50+ inspirational quotes  
 
+</details>
