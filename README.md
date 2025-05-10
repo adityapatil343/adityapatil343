@@ -64,7 +64,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=-ALL&column=-1&margin-w=20&margin-h=20" width="200%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=-ALL&column=-2&margin-w=20&margin-h=20" width="100%"/>
 </div>
 <br>
 
