@@ -63,9 +63,17 @@
 <br>
 
 ## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=-ALL&column=1&margin-w=15&margin-h=15" width="100%"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=-ALL&column=3&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; width: 800px;" />
 </div>
+
+<p align="center"><sub>✨ Powered by <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a></sub></p>
+
 
 <br>
 
