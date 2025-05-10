@@ -82,14 +82,13 @@
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
+
 <details>
-<br>
   <summary>ℹ️ About this feature (click to expand)</summary>
-
-<br>
-
+  
 🔹 **Daily Rotation**: Fresh quote selected automatically  
 🔹 **Source**: Curated collection in [`quotes.json`](.github/data/quotes.json)  
 🔹 **Schedule**: Updates at 00:00 UTC daily  
 🔹 **Total Quotes**: Currently featuring 50+ inspirational quotes  
+
 </div>
