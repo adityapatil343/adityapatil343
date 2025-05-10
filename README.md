@@ -77,9 +77,8 @@
 
 <div align="center">
   <h3>✍️ Developer Wisdom</h3>
-  <img id="dev-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1" width="100%"/>
-  
-  <a href="#" onclick="document.getElementById('dev-quote').src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp='+Date.now(); return false;" style="display: inline-block; background: #238636; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-top: 10px;">
-    🔄 New Quote
+  <a href="https://github.com/adityapatil343/adityapatil343/blob/main/README.md">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=${Date.now()}" width="100%" alt="Dev Quote"/>
   </a>
+  <sub>🔃 Click the quote image to refresh</sub>
 </div>
