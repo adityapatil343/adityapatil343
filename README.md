@@ -63,7 +63,15 @@
 <br>
 
 ## 🏆 GitHub Trophies
-[![My Trophies](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=8&rank=ALL)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/wave-divider.svg" width="100%" alt="divider" style="margin-bottom:-1px"/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=-1&rank=ALL&blur=1" width="100%" alt="trophies" style="border-radius:12px;box-shadow:0 0 15px rgba(101,117,255,0.15)"/>
+  </a>
+</div>
+
 <br>
 
 ## 📫 Let’s Connect  
