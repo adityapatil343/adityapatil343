@@ -12,11 +12,34 @@ jobs:
       - name: Generate random quote
         id: random-quote
         run: |
+          # Read quotes file
           QUOTES_FILE='.github/data/quotes.json'
-          QUOTE=$(jq -r '.quotes | .[$(shuf -i 0-$(($(jq ".quotes | length" $QUOTES_FILE)-1)) -n 1)]' $QUOTES_FILE)
-          echo "RANDOM_QUOTE_TEXT=$(echo $QUOTE | jq -r '.text')" >> $GITHUB_OUTPUT
-          echo "RANDOM_QUOTE_AUTHOR=$(echo $QUOTE | jq -r '.author')" >> $GITHUB_OUTPUT
+          QUOTE_JSON=$(cat $QUOTES_FILE)
+          
+          # Get random index
+          LENGTH=$(echo $QUOTE_JSON | jq '.quotes | length')
+          RANDOM_INDEX=$((RANDOM % LENGTH))
+          
+          # Extract quote
+          TEXT=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].text")
+          AUTHOR=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].author")
+          
+          # Escape special characters
+          TEXT=${TEXT//\"/\\\"}
+          AUTHOR=${AUTHOR//\"/\\\"}
+          
+          # Set outputs
+          echo "text=$TEXT" >> $GITHUB_OUTPUT
+          echo "author=$AUTHOR" >> $GITHUB_OUTPUT
+          
       - name: Update README
         run: |
-          sed -i "s|<!-- QUOTE_START -->.*<!-- QUOTE_END -->|<!-- QUOTE_START -->\n**\"${{ steps.random-quote.outputs.RANDOM_QUOTE_TEXT }}\"**\n\n*- ${{ steps.random-quote.outputs.RANDOM_QUOTE_AUTHOR }}*\n<!-- QUOTE_END -->|" README.md
+          # Create replacement text
+          REPLACEMENT="**\"${{ steps.random-quote.outputs.text }}\"**  \n*- ${{ steps.random-quote.outputs.author }}*  \n🔄 Updated: $(date +'%Y-%m-%d %H:%M') • [Manual refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)"
+          
+          # Perform replacement
+          sed -i -e '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/!b' -e "/<!-- QUOTE_END -->/i $REPLACEMENT" -e 'd' README.md
+          
       - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 Updated random quote"
