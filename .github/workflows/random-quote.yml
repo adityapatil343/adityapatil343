@@ -27,15 +27,17 @@ jobs:
 
       - name: Update README
         run: |
-          UPDATED_CONTENT=$'<div style="border-left: 4px solid #58a6ff; padding: 10px 20px; background: rgba(88,166,255,0.05); border-radius: 8px; margin: 20px 0;">\n\n> '"${{ steps.quote.outputs.text }}"'\n\n<p style="text-align: right; font-style: italic;">— '"${{ steps.quote.outputs.author }}"'</p>\n\n</div>\n\n<p align="center" style="color: #586069;">🔄 Automatically updates daily at midnight UTC</p>\n\n<details>\n<summary>ℹ️ About this feature</summary>\n\n🔹 **Fresh quote daily**  \n🔹 **Source**: <code>quotes.json</code> in this repo  \n🔹 **Total quotes**: '"$(jq '.quotes | length' .github/data/quotes.json)"' available  \n\n</details>'
+          # Just wrap existing content in a styled div
+          UPDATED_CONTENT=$'<div style="border: 1px solid #30363d; padding: 16px; border-radius: 6px; margin: 16px 0; background: #0d1117;">\n'"$(awk '/## 💬 Daily Inspiration/,/<\/details>/' README.md)"$'\n</div>'
 
-          awk -v content="$UPDATED_CONTENT" '
-            BEGIN {replaced=0}
-            /<div style="border-left:/ {print content; replaced=1; next}
-            /<\/details>/ {replaced=0; next}
+          # Preserve everything outside the quote section
+          awk -v new="$UPDATED_CONTENT" '
+            BEGIN {p=1; replaced=0}
+            /## 💬 Daily Inspiration/ {print new; replaced=1; p=0}
+            /<\/details>/ {p=1; next}
             !replaced
           ' README.md > tmp.md && mv tmp.md README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🎨 Updated quote with new stylish layout"
+          commit_message: "💄 Added box styling to quotes"
