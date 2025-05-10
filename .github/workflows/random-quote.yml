@@ -2,7 +2,7 @@ name: Daily Quote Update
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight UTC daily
-  workflow_dispatch:      # Allows manual triggers
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,49 +15,30 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install dependencies
+      - name: Setup environment
         run: sudo apt-get install -y gettext-base
 
-      - name: Load random quote
+      - name: Get random quote
         id: quote
         run: |
-          QUOTES=($(jq -r '.quotes[] | "\(.text)|\(.author)"' .github/data/quotes.json))
+          mapfile -t QUOTES < <(jq -r '.quotes[] | "\(.text)|\(.author)"' .github/data/quotes.json)
           INDEX=$(( RANDOM % ${#QUOTES[@]} ))
-          IFS="|" read -r TEXT AUTHOR <<< "${QUOTES[$INDEX]}"
+          IFS='|' read -r TEXT AUTHOR <<< "${QUOTES[$INDEX]}"
           echo "text=${TEXT//\"/\\\"}" >> $GITHUB_OUTPUT
-          echo "author=$AUTHOR" >> $GITHUB_OUTPUT
+          echo "author=${AUTHOR}" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          # Create template file
-          cat << 'EOF' > template.txt
-## 💬 Daily Inspiration (quotes)
-<!-- Dynamic quote section - auto-updates daily -->
-**"${QUOTE_TEXT}"**  
-*- ${QUOTE_AUTHOR}*  
-🔄 *This quote updates automatically every 24 hours*
-
-<details>
-<summary>ℹ️ How these quotes work (expand for more detail)</summary>
-
-🔹 **Auto-rotating**: A new random quote appears daily  
-🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)  
-🔹 **Update time**: Changes occur around midnight UTC   
-
-</details>
-EOF
-
-          # Process template
-          export QUOTE_TEXT="${{ steps.quote.outputs.text }}"
-          export QUOTE_AUTHOR="${{ steps.quote.outputs.author }}"
-          envsubst < template.txt > section.txt
+          # Generate new content
+          CONTENT=$'## 💬 Daily Inspiration (quotes)\n<!-- Dynamic quote section - auto-updates daily -->\n**"'"${{ steps.quote.outputs.text }}"'"**\n*- '"${{ steps.quote.outputs.author }}"'*\n🔄 *This quote updates automatically every 24 hours*\n\n<details>\n<summary>ℹ️ How these quotes work (expand for more detail)</summary>\n\n🔹 **Auto-rotating**: A new random quote appears daily\n🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)\n🔹 **Update time**: Changes occur around midnight UTC\n\n</details>'
 
           # Update README
-          awk -v new="$(cat section.txt)" '
-            BEGIN {p=1; replaced=0}
-            /## 💬 Daily Inspiration \(quotes\)/ {print new; replaced=1; p=0}
-            /<\/details>/ {p=1}
-            p' README.md > tmp.md && mv tmp.md README.md
+          awk -v content="$CONTENT" '
+            BEGIN {replaced=0}
+            /## 💬 Daily Inspiration \(quotes\)/ {print content; replaced=1; next}
+            /<\/details>/ {replaced=0; next}
+            !replaced
+          ' README.md > tmp.md && mv tmp.md README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
