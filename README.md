@@ -90,4 +90,3 @@
 🔹 **Schedule**: Updates at 00:00 UTC daily  
 🔹 **Total Quotes**: Currently featuring 50+ inspirational quotes  
 
-</details>
