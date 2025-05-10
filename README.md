@@ -69,7 +69,7 @@
   <div style="position:absolute; top:0; left:0; width:100%; height:100%; background: radial-gradient(circle, rgba(15,23,42,0.8) 0%, rgba(2,6,23,1) 100%); border-radius:16px; z-index:-1;"></div>
 
   <!-- Unique Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&margin-w=30&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="90%" style="filter: drop-shadow(0 0 12px #3b82f6)"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&margin-w=30&column=6&rank=ALL" width="90%" style="filter: drop-shadow(0 0 12px #3b82f6)"/>
 
   <!-- Subtle Animated Border (Pure CSS) -->
   <div style="position:absolute; inset:0; border:1px solid transparent; border-radius:16px; background:linear-gradient(90deg,transparent 50%,rgba(59,130,246,0.3) 100%) 0 0/400% 400%; animation:gradient 8s ease infinite; pointer-events:none;"></div>
