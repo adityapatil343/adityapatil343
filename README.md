@@ -88,4 +88,3 @@
 🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)
 🔹 **Update time**: Changes occur around midnight UTC
 
-</details>
