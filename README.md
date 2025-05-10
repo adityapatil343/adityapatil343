@@ -83,8 +83,10 @@
 > 🔄 *Automatically refreshes every 24 hours*
 
 <details>
-
+<br>
   <summary>ℹ️ About this feature (click to expand)</summary>
+
+<br>
 
 🔹 **Daily Rotation**: Fresh quote selected automatically  
 🔹 **Source**: Curated collection in [`quotes.json`](.github/data/quotes.json)  
