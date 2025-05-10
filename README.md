@@ -77,8 +77,5 @@
 
 ## 💬 Developer Wisdom
 
-<!-- QUOTE_START -->
-**"Every piece of software written today is going to infringe on someone else's patent."**  
-*- Miguel de Icaza*  
-🔄 Updated: 2025-05-10 03:27 • [Manual refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)
-<!-- QUOTE_END -->
+[![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&timestamp=$RANDOM)](https://github.com/adityapatil343/adityapatil343/blob/main/README.md)
+🔃 **[Refresh README](https://github.com/adityapatil343/adityapatil343/blob/main/README.md)** to see new quote
