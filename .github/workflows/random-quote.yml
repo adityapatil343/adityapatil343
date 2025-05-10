@@ -14,28 +14,46 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # Required for file history
+
+      - name: Verify quotes.json exists
+        id: check-quotes
+        run: |
+          if [ ! -f ".github/data/quotes.json" ]; then
+            echo "::error file=.github/data/quotes.json::Quotes file not found!"
+            exit 1
+          fi
+          echo "quotes_count=$(jq '.quotes | length' .github/data/quotes.json)" >> $GITHUB_OUTPUT
 
       - name: Generate random quote
+        if: steps.check-quotes.outputs.quotes_count > 0
         id: random-quote
         run: |
-          QUOTES_FILE='.github/data/quotes.json'
-          QUOTE_JSON=$(cat $QUOTES_FILE)
-          LENGTH=$(echo $QUOTE_JSON | jq '.quotes | length')
-          RANDOM_INDEX=$((RANDOM % LENGTH))
-          TEXT=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].text")
-          AUTHOR=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].author")
-          echo "text=${TEXT//\"/\\\"}" >> $GITHUB_OUTPUT
-          echo "author=${AUTHOR//\"/\\\"}" >> $GITHUB_OUTPUT
+          QUOTE_JSON=$(cat .github/data/quotes.json)
+          RANDOM_INDEX=$((RANDOM % ${{ steps.check-quotes.outputs.quotes_count }}))
+          echo "text=$(jq -r ".quotes[$RANDOM_INDEX].text" <<< "$QUOTE_JSON" | sed 's/"/\\"/g')" >> $GITHUB_OUTPUT
+          echo "author=$(jq -r ".quotes[$RANDOM_INDEX].author" <<< "$QUOTE_JSON")" >> $GITHUB_OUTPUT
 
       - name: Update README
+        if: steps.check-quotes.outputs.quotes_count > 0
         run: |
+          # Create replacement text
           REPLACEMENT="**\"${{ steps.random-quote.outputs.text }}\"**  \n*- ${{ steps.random-quote.outputs.author }}*  \n🔄 Updated: $(date +'%Y-%m-%d %H:%M') • [Manual refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)"
-          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\
-<!-- QUOTE_START -->\
-'"$REPLACEMENT"'\
-<!-- QUOTE_END -->' README.md
+
+          # Use awk for reliable replacement
+          awk -v r="$REPLACEMENT" '
+            /<!-- QUOTE_START -->/ {print; print r; skip=1; next}
+            /<!-- QUOTE_END -->/ {skip=0}
+            !skip' README.md > tmp.md && mv tmp.md README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
+        if: steps.check-quotes.outputs.quotes_count > 0
         with:
           commit_message: "🔄 Updated random quote"
           committer: "GitHub Actions <action@github.com>"
+
+      - name: Fail if no quotes
+        if: steps.check-quotes.outputs.quotes_count == 0
+        run: |
+          echo "::error::No quotes found in .github/data/quotes.json"
+          exit 1
