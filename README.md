@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/wave-bg.svg" width="100%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-bg=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-bg=true&no-frame=true" width="100%"/>
 </div>
 <br>
 
