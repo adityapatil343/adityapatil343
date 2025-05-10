@@ -63,7 +63,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=8&rank=ALL)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ## 📫 Let’s Connect  
