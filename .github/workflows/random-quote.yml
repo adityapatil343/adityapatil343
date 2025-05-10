@@ -1,8 +1,10 @@
-name: Update Random Quote
+name: Auto-Update Quotes
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs at minute 0 of every hour
-  workflow_dispatch:      # Allows manual triggers
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  push:
+    paths:
+      - '.github/data/quotes.json'  # Trigger when quotes change
 
 permissions:
   contents: write
@@ -12,44 +14,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Load random quote
+      
+      - name: Get random quote
         id: quote
         run: |
-          # Read quotes and count
-          QUOTES=($(jq -r '.quotes[] | "\(.text)|\(.author)"' .github/data/quotes.json))
-          COUNT=${#QUOTES[@]}
-          
-          # Select random quote
-          INDEX=$(( RANDOM % COUNT ))
-          IFS='|' read -r TEXT AUTHOR <<< "${QUOTES[$INDEX]}"
-          
-          # Escape and output
-          echo "text=${TEXT//\"/\\\"}" >> $GITHUB_OUTPUT
-          echo "author=$AUTHOR" >> $GITHUB_OUTPUT
-          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          QUOTE=$(jq -r '.quotes | .[$(shuf -i 0-$(($(jq ".quotes | length" .github/data/quotes.json)-1)) -n 1)]' .github/data/quotes.json)
+          echo "text=$(jq -r '.text' <<< "$QUOTE")" >> $GITHUB_OUTPUT
+          echo "author=$(jq -r '.author' <<< "$QUOTE")" >> $GITHUB_OUTPUT
 
       - name: Update README
-        if: steps.quote.outputs.count > 0
         run: |
-          # Generate new content
-          CONTENT="<!-- QUOTE_START -->
-**\"${{ steps.quote.outputs.text }}\"**  
-*- ${{ steps.quote.outputs.author }}*  
-🔄 Updated: $(date +'%Y-%m-%d %H:%M') • [Manual Refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)
-<!-- QUOTE_END -->"
-
-          # Replace section
-          awk -v content="$(echo "$CONTENT" | sed 's/&/\\&/g')" '
-            BEGIN {replaced=0}
-            /<!-- QUOTE_START -->/ {print content; replaced=1; next}
-            /<!-- QUOTE_END -->/ {replaced=0; next}
-            !replaced' README.md > tmp.md && mv tmp.md README.md
+          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/{
+            /<!-- QUOTE_START -->/!d
+            a\
+<!-- QUOTE_START -->\
+**"'"${{ steps.quote.outputs.text }}"'**  \
+*- '"${{ steps.quote.outputs.author }}"'*  \
+🔄 Updated: '"$(date +'%Y-%m-%d %H:%M')"'\
+<!-- QUOTE_END -->
+          }' README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
-        if: steps.quote.outputs.count > 0
         with:
-          commit_message: "🔄 Updated quote (Auto)"
-          committer: "GitHub Actions <action@github.com>"
+          commit_message: "🔁 Auto-updated quote"
