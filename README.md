@@ -75,8 +75,8 @@
 
 ## 💬 Daily Inspiration
 
-> **"TEXT"**  
-> — *AUTHOR*  
+> **"Hard things are hard."**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
