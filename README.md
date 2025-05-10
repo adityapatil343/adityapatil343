@@ -70,9 +70,6 @@
 
   <!-- Unique Trophy Display -->
   <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&margin-w=30&column=6&rank=ALL" width="90%" style="filter: drop-shadow(0 0 12px #3b82f6)"/>
-
-  <!-- Subtle Animated Border (Pure CSS) -->
-  <div style="position:absolute; inset:0; border:1px solid transparent; border-radius:16px; background:linear-gradient(90deg,transparent 50%,rgba(59,130,246,0.3) 100%) 0 0/400% 400%; animation:gradient 8s ease infinite; pointer-events:none;"></div>
 </div>
 
 <style>
