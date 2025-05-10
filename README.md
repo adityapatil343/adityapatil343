@@ -63,7 +63,13 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=adityapatil343" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/wave-divider.svg" width="100%" style="margin-bottom:20px"/>
+  
+  <div style="background: rgba(15,23,42,0.7); border-radius: 12px; padding: 10px; display: inline-block">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=6" width="100%"/>
+  </div>
+</div>
 
 <br>
 
