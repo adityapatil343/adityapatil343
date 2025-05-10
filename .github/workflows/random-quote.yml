@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Required to push changes
+  contents: write
 
 jobs:
   update:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Essential for pushing
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate random quote
         id: random-quote
@@ -30,7 +30,10 @@ jobs:
       - name: Update README
         run: |
           REPLACEMENT="**\"${{ steps.random-quote.outputs.text }}\"**  \n*- ${{ steps.random-quote.outputs.author }}*  \n🔄 Updated: $(date +'%Y-%m-%d %H:%M') • [Manual refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)"
-          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/{//!d; /<!-- QUOTE_START -->/a '"$REPLACEMENT"'}' README.md
+          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/c\
+<!-- QUOTE_START -->\
+'"$REPLACEMENT"'\
+<!-- QUOTE_END -->' README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
