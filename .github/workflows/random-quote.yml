@@ -1,45 +1,38 @@
 name: Update Random Quote
 on:
   schedule:
-    - cron: '0 * * * *' # Updates hourly
+    - cron: '0 * * * *' # Hourly updates
   workflow_dispatch:
+
+permissions:
+  contents: write  # Required to push changes
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Essential for pushing
+
       - name: Generate random quote
         id: random-quote
         run: |
-          # Read quotes file
           QUOTES_FILE='.github/data/quotes.json'
           QUOTE_JSON=$(cat $QUOTES_FILE)
-          
-          # Get random index
           LENGTH=$(echo $QUOTE_JSON | jq '.quotes | length')
           RANDOM_INDEX=$((RANDOM % LENGTH))
-          
-          # Extract quote
           TEXT=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].text")
           AUTHOR=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].author")
-          
-          # Escape special characters
-          TEXT=${TEXT//\"/\\\"}
-          AUTHOR=${AUTHOR//\"/\\\"}
-          
-          # Set outputs
-          echo "text=$TEXT" >> $GITHUB_OUTPUT
-          echo "author=$AUTHOR" >> $GITHUB_OUTPUT
-          
+          echo "text=${TEXT//\"/\\\"}" >> $GITHUB_OUTPUT
+          echo "author=${AUTHOR//\"/\\\"}" >> $GITHUB_OUTPUT
+
       - name: Update README
         run: |
-          # Create replacement text
           REPLACEMENT="**\"${{ steps.random-quote.outputs.text }}\"**  \n*- ${{ steps.random-quote.outputs.author }}*  \n🔄 Updated: $(date +'%Y-%m-%d %H:%M') • [Manual refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)"
-          
-          # Perform replacement
-          sed -i -e '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/!b' -e "/<!-- QUOTE_END -->/i $REPLACEMENT" -e 'd' README.md
-          
+          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/{//!d; /<!-- QUOTE_START -->/a '"$REPLACEMENT"'}' README.md
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🔄 Updated random quote"
+          committer: "GitHub Actions <action@github.com>"
