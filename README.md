@@ -75,21 +75,17 @@
 
 <br>
 
-## 💬 Daily Inspiration
+## 💬 Daily Inspiration (quotes)
 <!-- Dynamic quote section - auto-updates daily -->
-**"Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."**  
-*- Eagleson's Law*  
+**"Example quote text"**  
+*- Author Name*  
 🔄 *This quote updates automatically every 24 hours*
 
 <details>
-<summary>ℹ️ How these quotes work</summary>
+<summary>ℹ️ How these quotes work (expand for more detail)</summary>
 
 🔹 **Auto-rotating**: A new random quote appears daily  
 🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)  
-🔹 **Update time**: Changes occur around midnight UTC  
-🔹 **Total quotes**: Currently featuring 99+ developer quotes  
+🔹 **Update time**: Changes occur around midnight UTC   
 
-</details>
-</details>
-</details>
 </details>
