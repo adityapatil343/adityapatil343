@@ -63,11 +63,21 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=-1&rank=ALL&blur=1" width="100%" alt="trophies" style="border-radius:12px;box-shadow:0 0 15px rgba(101,117,255,0.15)"/>
-  </a>
+<div align="center" style="position:relative; padding:30px 0;">
+
+  <!-- Dark Glow Background -->
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background: radial-gradient(circle, rgba(15,23,42,0.8) 0%, rgba(2,6,23,1) 100%); border-radius:16px; z-index:-1;"></div>
+
+  <!-- Unique Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&margin-w=30&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="90%" style="filter: drop-shadow(0 0 12px #3b82f6)"/>
+
+  <!-- Subtle Animated Border (Pure CSS) -->
+  <div style="position:absolute; inset:0; border:1px solid transparent; border-radius:16px; background:linear-gradient(90deg,transparent 50%,rgba(59,130,246,0.3) 100%) 0 0/400% 400%; animation:gradient 8s ease infinite; pointer-events:none;"></div>
 </div>
+
+<style>
+  @keyframes gradient { 0%{background-position:0% 50%} 50%{background-position:100% 50%} 100%{background-position:0% 50%} }
+</style>
 <br>
 
 ## 📫 Let’s Connect  
