@@ -68,7 +68,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=4" width="100%" alt="GitHub Trophies"/>
   
   <!-- Optional: Backup PNG (if dynamic image fails) -->
- <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/trophies-backup.svg" width="80%"/>
+ <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/%20trophies-backup.svg" width="80%"/>
 </div>
 </div>
 
