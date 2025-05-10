@@ -76,9 +76,17 @@
 <br>
 
 ## 💬 Daily Inspiration
+<!-- Dynamic quote section - auto-updates daily -->
+**"Example quote text"**  
+*- Author Name*  
+🔄 *This quote updates automatically every 24 hours*
 
-<!-- QUOTE_START -->
-**"The best way to predict the future is to invent it."**  
-*- Alan Kay*  
-🔄 Updated: 2024-07-17 14:30
-<!-- QUOTE_END -->
+<details>
+<summary>ℹ️ How these quotes work</summary>
+
+🔹 **Auto-rotating**: A new random quote appears daily  
+🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)  
+🔹 **Update time**: Changes occur around midnight UTC  
+🔹 **Total quotes**: Currently featuring 50+ developer quotes  
+
+</details>
