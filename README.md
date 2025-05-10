@@ -75,11 +75,10 @@
 
 <br>
 
-## 💬 Developer Wisdom
-## 💬 Developer Wisdom
+## 💬 Daily Inspiration
 
 <!-- QUOTE_START -->
-**"Debugging is twice as hard as writing the code in the first place."**  
-*- Brian Kernighan*  
-🔄 Updated: 2024-07-16 14:00 • [Manual Refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)
+**"The best way to predict the future is to invent it."**  
+*- Alan Kay*  
+🔄 Updated: 2024-07-17 14:30
 <!-- QUOTE_END -->
