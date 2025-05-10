@@ -18,22 +18,21 @@ jobs:
       - name: Get random quote
         id: quote
         run: |
-          QUOTE=$(jq -r '.quotes | .[$(shuf -i 0-$(($(jq ".quotes | length" .github/data/quotes.json)-1)) -n 1)]' .github/data/quotes.json)
-          echo "text=$(jq -r '.text' <<< "$QUOTE")" >> $GITHUB_OUTPUT
-          echo "author=$(jq -r '.author' <<< "$QUOTE")" >> $GITHUB_OUTPUT
+          QUOTES_FILE='.github/data/quotes.json'
+          QUOTE_JSON=$(cat $QUOTES_FILE)
+          LENGTH=$(echo $QUOTE_JSON | jq '.quotes | length')
+          RANDOM_INDEX=$((RANDOM % LENGTH))
+          TEXT=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].text")
+          AUTHOR=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].author")
+          echo "text=${TEXT//\"/\\\"}" >> $GITHUB_OUTPUT
+          echo "author=${AUTHOR//\"/\\\"}" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
           sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/{
             /<!-- QUOTE_START -->/!d
             a\
-<!-- QUOTE_START -->\
-**"'"${{ steps.quote.outputs.text }}"'**  \
-*- '"${{ steps.quote.outputs.author }}"'*  \
-🔄 Updated: '"$(date +'%Y-%m-%d %H:%M')"'\
-<!-- QUOTE_END -->
           }' README.md
-
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🔁 Auto-updated quote"
