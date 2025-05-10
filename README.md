@@ -1,4 +1,4 @@
-
+<!-- Typing Intro -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Patil+%F0%9F%91%8B" alt="Typing SVG" />
 </h2>
@@ -63,7 +63,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
