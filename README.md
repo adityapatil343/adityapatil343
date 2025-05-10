@@ -78,7 +78,7 @@
 ## 💬 Developer Wisdom
 
 <!-- QUOTE_START -->
-**"The function of good software is to make the complex appear to be simple."**  
-*- Grady Booch*  
-🔄 Updated: 2024-07-15 15:00 • [Manual refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)
+**"Every piece of software written today is going to infringe on someone else's patent."**  
+*- Miguel de Icaza*  
+🔄 Updated: 2025-05-10 03:27 • [Manual refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)
 <!-- QUOTE_END -->
