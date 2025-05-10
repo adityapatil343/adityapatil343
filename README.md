@@ -75,12 +75,6 @@
 
 <br>
 
-<div align="center" style="border-left: 3px solid #58a6ff; padding-left: 15px; margin: 20px 0;">
-  <!-- QUOTE_START -->
-  <blockquote style="font-style: italic; font-size: 1.1em;">
-    "{{RANDOM_QUOTE_TEXT}}"
-    <footer style="text-align: right; margin-top: 10px;">— {{RANDOM_QUOTE_AUTHOR}}</footer>
-  </blockquote>
-  <!-- QUOTE_END -->
-  <sub>🔄 Updated hourly • <a href="https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml">Manual refresh</a></sub>
-</div>
+<!-- QUOTE_START -->
+<!-- Dynamic content will appear here -->
+<!-- QUOTE_END -->
