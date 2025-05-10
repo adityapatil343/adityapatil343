@@ -76,6 +76,10 @@
 <br>
 
 ## 💬 Developer Wisdom
+## 💬 Developer Wisdom
 
-[![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&timestamp=$RANDOM)](https://github.com/adityapatil343/adityapatil343/blob/main/README.md)
-🔃 **[Refresh README](https://github.com/adityapatil343/adityapatil343/blob/main/README.md)** to see new quote
+<!-- QUOTE_START -->
+**"Debugging is twice as hard as writing the code in the first place."**  
+*- Brian Kernighan*  
+🔄 Updated: 2024-07-16 14:00 • [Manual Refresh](https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml)
+<!-- QUOTE_END -->
