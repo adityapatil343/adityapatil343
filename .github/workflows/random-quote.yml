@@ -1,8 +1,8 @@
 name: Daily Quote Update
 on:
   schedule:
-    - cron: '0 0 * * *'  # Midnight UTC daily
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs at midnight UTC daily
+  workflow_dispatch:      # Allows manual triggers
 
 permissions:
   contents: write
@@ -15,27 +15,30 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Get random quote
-        id: quote
+      - name: Get quote data
+        id: quotes
         run: |
-          QUOTE=$(jq -r '.quotes[input_line_number] | "\(.text)|\(.author)"' \
-            --argjson input_line_number $(( RANDOM % $(jq '.quotes | length' .github/data/quotes.json) )) \
-            .github/data/quotes.json)
-          IFS='|' read -r TEXT AUTHOR <<< "$QUOTE"
-          echo "text=${TEXT}" >> $GITHUB_OUTPUT
-          echo "author=${AUTHOR}" >> $GITHUB_OUTPUT
+          TOTAL=$(jq '.quotes | length' .github/data/quotes.json)
+          DAY=$(( $(date +%s) / 86400 ))  # Unique day number
+          INDEX=$(( DAY % TOTAL ))
+          QUOTE=$(jq --arg i $INDEX '.quotes[$i|tonumber]' .github/data/quotes.json)
+          echo "text=$(jq -r '.text' <<< "$QUOTE")" >> $GITHUB_OUTPUT
+          echo "author=$(jq -r '.author' <<< "$QUOTE")" >> $GITHUB_OUTPUT
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          UPDATED_CONTENT=$'### 💬 Daily Inspiration\n\n> **'"${{ steps.quote.outputs.text }}"'**  \n> *— '"${{ steps.quote.outputs.author }}"'*\n\n<p align="right">\n  <small>🔄 Auto-updates daily at midnight UTC</small>\n</p>\n\n<details>\n<summary>ℹ️ How these quotes work</summary>\n\n🔹 **Auto-rotating**: New random quote daily  \n🔹 **Source**: <code>quotes.json</code> in this repo  \n🔹 **Update time**: ~12:00AM UTC  \n\n</details>'
+          # Generate the new content section
+          UPDATED_CONTENT=$'## 💬 Daily Inspiration\n\n> **"'"${{ steps.quotes.outputs.text }}"'"**  \n> — *'"${{ steps.quotes.outputs.author }}"'*  \n>  \n> 🔄 *Automatically refreshes every 24 hours*\n\n<details>\n<summary>ℹ️ About this feature (click to expand)</summary>\n\n🔹 **Daily Rotation**: Fresh quote selected automatically  \n🔹 **Source**: Curated collection in [`quotes.json`](.github/data/quotes.json)  \n🔹 **Schedule**: Updates at 00:00 UTC daily  \n🔹 **Total Quotes**: Currently featuring '"${{ steps.quotes.outputs.total }}"'+ inspirational quotes  \n\n</details>'
 
-          awk -v content="$UPDATED_CONTENT" '
-            BEGIN {replaced=0}
-            /### 💬 Daily Inspiration/ {print content; replaced=1; next}
-            /<\/details>/ {replaced=0; next}
-            !replaced
+          # Update the README while preserving other content
+          awk -v new="$UPDATED_CONTENT" '
+            BEGIN {p=1; replaced=0}
+            /## 💬 Daily Inspiration/ {print new; replaced=1; p=0}
+            /<\/details>/ {p=1}
+            p
           ' README.md > tmp.md && mv tmp.md README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "✨ Updated daily quote"
+          commit_message: "✨ Updated daily inspirational quote"
