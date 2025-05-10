@@ -77,17 +77,9 @@
 
 <div align="center">
   <h3>✍️ Developer Wisdom</h3>
-  <div id="quote-container">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
-  </div>
-  <button onclick="refreshQuote()" style="background:#238636;color:white;border:none;padding:5px 10px;border-radius:5px;cursor:pointer">
+  <img id="dev-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1" width="100%"/>
+  
+  <a href="#" onclick="document.getElementById('dev-quote').src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp='+Date.now(); return false;" style="display: inline-block; background: #238636; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-top: 10px;">
     🔄 New Quote
-  </button>
-  <script>
-    function refreshQuote() {
-      const container = document.getElementById('quote-container');
-      container.innerHTML = `<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=${Math.random()}" width="100%"/>`;
-    }
-  </script>
+  </a>
 </div>
-
