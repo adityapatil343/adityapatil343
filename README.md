@@ -63,18 +63,8 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<div align="center" style="position:relative; padding:30px 0;">
+[![Trophies](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=ALL&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <!-- Dark Glow Background -->
-  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background: radial-gradient(circle, rgba(15,23,42,0.8) 0%, rgba(2,6,23,1) 100%); border-radius:16px; z-index:-1;"></div>
-
-  <!-- Unique Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&margin-w=30&column=6&rank=ALL" width="90%" style="filter: drop-shadow(0 0 12px #3b82f6)"/>
-</div>
-
-<style>
-  @keyframes gradient { 0%{background-position:0% 50%} 50%{background-position:100% 50%} 100%{background-position:0% 50%} }
-</style>
 <br>
 
 ## 📫 Let’s Connect  
