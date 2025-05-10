@@ -1,10 +1,8 @@
-name: Auto-Update Quotes
+name: Daily Quote Update
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
-  push:
-    paths:
-      - '.github/data/quotes.json'  # Trigger when quotes change
+    - cron: '0 0 * * *'  # Midnight UTC daily
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -14,25 +12,46 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Get random quote
-        id: quote
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get quote data
+        id: quotes
         run: |
-          QUOTES_FILE='.github/data/quotes.json'
-          QUOTE_JSON=$(cat $QUOTES_FILE)
-          LENGTH=$(echo $QUOTE_JSON | jq '.quotes | length')
-          RANDOM_INDEX=$((RANDOM % LENGTH))
-          TEXT=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].text")
-          AUTHOR=$(echo $QUOTE_JSON | jq -r ".quotes[$RANDOM_INDEX].author")
-          echo "text=${TEXT//\"/\\\"}" >> $GITHUB_OUTPUT
-          echo "author=${AUTHOR//\"/\\\"}" >> $GITHUB_OUTPUT
+          TOTAL=$(jq '.quotes | length' .github/data/quotes.json)
+          DAY=$(( $(date +%s) / 86400 ))  # Unique day number
+          INDEX=$(( DAY % TOTAL ))
+          QUOTE=$(jq --arg i $INDEX '.quotes[$i|tonumber]' .github/data/quotes.json)
+          echo "text=$(jq -r '.text' <<< "$QUOTE")" >> $GITHUB_OUTPUT
+          echo "author=$(jq -r '.author' <<< "$QUOTE")" >> $GITHUB_OUTPUT
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          sed -i '/<!-- QUOTE_START -->/,/<!-- QUOTE_END -->/{
-            /<!-- QUOTE_START -->/!d
-            a\
-          }' README.md
+          SECTION="## 💬 Daily Inspiration
+<!-- Dynamic quote section - auto-updates daily -->
+**\"${{ steps.quotes.outputs.text }}\"**  
+*- ${{ steps.quotes.outputs.author }}*  
+🔄 *This quote updates automatically every 24 hours*
+
+<details>
+<summary>ℹ️ How these quotes work</summary>
+
+🔹 **Auto-rotating**: A new random quote appears daily  
+🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)  
+🔹 **Update time**: Changes occur around midnight UTC  
+🔹 **Total quotes**: Currently featuring ${{ steps.quotes.outputs.total }}+ developer quotes  
+
+</details>"
+
+          # Preserve all other README content
+          awk -v new="$SECTION" '
+            BEGIN {p=1; replaced=0}
+            /## 💬 Daily Inspiration/ {print new; replaced=1; p=0}
+            /<\/details>/ {p=1}
+            p' README.md > tmp.md && mv tmp.md README.md
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔁 Auto-updated quote"
+          commit_message: "🔄 Auto-updated daily quote"
+          committer: "GitHub Actions <action@github.com>"
