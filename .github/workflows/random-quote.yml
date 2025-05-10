@@ -19,7 +19,7 @@ jobs:
         id: quote
         run: |
           # Read quotes and count
-          mapfile -t QUOTES < <(jq -r '.quotes[] | "\(.text)|\(.author)"' .github/data/quotes.json)
+          QUOTES=($(jq -r '.quotes[] | "\(.text)|\(.author)"' .github/data/quotes.json))
           COUNT=${#QUOTES[@]}
           
           # Select random quote
@@ -42,7 +42,7 @@ jobs:
 <!-- QUOTE_END -->"
 
           # Replace section
-          awk -v content="$CONTENT" '
+          awk -v content="$(echo "$CONTENT" | sed 's/&/\\&/g')" '
             BEGIN {replaced=0}
             /<!-- QUOTE_START -->/ {print content; replaced=1; next}
             /<!-- QUOTE_END -->/ {replaced=0; next}
