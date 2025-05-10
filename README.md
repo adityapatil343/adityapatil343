@@ -63,7 +63,9 @@
 <br>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=matrix&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=radical&no-frame=true&no-bg=true" alt="Trophies" style="border-radius: 10px; box-shadow: 0 0 15px #6e5494;" />
+</p>
 
 <br>
 
