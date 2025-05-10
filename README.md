@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/adityapatil343/adityapatil343/raw/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ## 👨‍💻 About Me
 - 🔐 Exploring Cybersecurity, Cloud Security & Blockchain
 - 🤖 Automating life with Python, Playwright & Web3
@@ -44,13 +48,6 @@
 ### **Specialized Technologies**:  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF6600?style=flat-square&logo=ethereum&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white)  
 *(Databases, blockchain, and testing frameworks)*
-
-<br>
-
-## 🐍 Snake Contributions  
-<p align="center">
-  <img src="https://github.com/adityapatil343/adityapatil343/raw/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <br>
 
