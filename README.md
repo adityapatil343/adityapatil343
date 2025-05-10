@@ -77,15 +77,15 @@
 
 ## 💬 Daily Inspiration (quotes)
 <!-- Dynamic quote section - auto-updates daily -->
-**"Example quote text"**  
-*- Author Name*  
+**"Programming is not easy like Sunday morning, it is silent poetry."**
+*- Anonymous*
 🔄 *This quote updates automatically every 24 hours*
 
 <details>
 <summary>ℹ️ How these quotes work (expand for more detail)</summary>
 
-🔹 **Auto-rotating**: A new random quote appears daily  
-🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)  
-🔹 **Update time**: Changes occur around midnight UTC   
+🔹 **Auto-rotating**: A new random quote appears daily
+🔹 **Source**: Quotes are pulled from [quotes.json](.github/data/quotes.json)
+🔹 **Update time**: Changes occur around midnight UTC
 
 </details>
