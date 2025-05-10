@@ -63,14 +63,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/github-contribution-snake.svg" width="100%"/>
-  
-  <!-- Semi-transparent background for trophies -->
-  <table><tr><td style="background-color:rgba(15,25,40,0.7); padding:20px; border-radius:10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&margin-w=30" width="100%"/>
-  </td></tr></table>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ## 📫 Let’s Connect  
