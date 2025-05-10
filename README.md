@@ -75,6 +75,26 @@
 
 <br>
 
+## 🎯 Developer Motivation
+
 <!-- QUOTE_START -->
-<!-- Dynamic content will appear here -->
+<!-- Dynamic content will appear here between these markers -->
 <!-- QUOTE_END -->
+
+<div align="center" style="margin: 2em 0;">
+  <blockquote style="
+    border-left: 4px solid #58a6ff;
+    padding: 10px 20px;
+    background: rgba(88, 166, 255, 0.05);
+    font-style: italic;
+  ">
+    <!-- QUOTE_START -->
+    <!-- Content will be auto-updated here -->
+    <!-- QUOTE_END -->
+    <p style="text-align: right; margin-top: 10px; font-style: normal;">
+      <small>🔄 Updated hourly • 
+        <a href="https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml">Force refresh</a>
+      </small>
+    </p>
+  </blockquote>
+</div>
