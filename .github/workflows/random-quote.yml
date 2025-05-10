@@ -29,8 +29,8 @@ jobs:
 
       - name: Update README
         run: |
-          # Create template
-          cat << 'EOF' > template.md
+          # Create template file
+          cat << 'EOF' > template.txt
 ## 💬 Daily Inspiration (quotes)
 <!-- Dynamic quote section - auto-updates daily -->
 **"${QUOTE_TEXT}"**  
@@ -47,13 +47,13 @@ jobs:
 </details>
 EOF
 
-          # Insert values
+          # Process template
           export QUOTE_TEXT="${{ steps.quote.outputs.text }}"
           export QUOTE_AUTHOR="${{ steps.quote.outputs.author }}"
-          envsubst < template.md > section.md
+          envsubst < template.txt > section.txt
 
           # Update README
-          awk -v new="$(cat section.md)" '
+          awk -v new="$(cat section.txt)" '
             BEGIN {p=1; replaced=0}
             /## 💬 Daily Inspiration \(quotes\)/ {print new; replaced=1; p=0}
             /<\/details>/ {p=1}
