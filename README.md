@@ -64,11 +64,12 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/wave-divider.svg" width="100%" style="margin-bottom:20px"/>
+  <!-- Recommended: Auto-updating Trophy Image -->
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=4" width="100%" alt="GitHub Trophies"/>
   
-  <div style="background: rgba(15,23,42,0.7); border-radius: 12px; padding: 10px; display: inline-block">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=6" width="100%"/>
-  </div>
+  <!-- Optional: Backup PNG (if dynamic image fails) -->
+  <!-- <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/trophies-backup.png" width="80%"/> -->
+</div>
 </div>
 
 <br>
