@@ -75,10 +75,12 @@
 
 <br>
 
-<div align="center">
-  <h3>✍️ Developer Wisdom</h3>
-  <a href="https://github.com/adityapatil343/adityapatil343/blob/main/README.md">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=${Date.now()}" width="100%" alt="Dev Quote"/>
-  </a>
-  <sub>🔃 Click the quote image to refresh</sub>
+<div align="center" style="border-left: 3px solid #58a6ff; padding-left: 15px; margin: 20px 0;">
+  <!-- QUOTE_START -->
+  <blockquote style="font-style: italic; font-size: 1.1em;">
+    "{{RANDOM_QUOTE_TEXT}}"
+    <footer style="text-align: right; margin-top: 10px;">— {{RANDOM_QUOTE_AUTHOR}}</footer>
+  </blockquote>
+  <!-- QUOTE_END -->
+  <sub>🔄 Updated hourly • <a href="https://github.com/adityapatil343/adityapatil343/actions/workflows/random-quote.yml">Manual refresh</a></sub>
 </div>
