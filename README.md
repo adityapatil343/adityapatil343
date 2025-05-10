@@ -63,14 +63,7 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <!-- Recommended: Auto-updating Trophy Image -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=4" width="100%" alt="GitHub Trophies"/>
-  
-  <!-- Optional: Backup PNG (if dynamic image fails) -->
- <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/assets/%20trophies-backup.svg" width="80%"/>
-</div>
-</div>
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=onedark&no-frame=true&column=8&rank=ALL)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
