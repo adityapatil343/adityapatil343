@@ -74,6 +74,7 @@
 - [Email](bapuji1761@gmail.com)  
 
 
+<div style="border: 1px solid #30363d; padding: 16px; border-radius: 6px; margin: 16px 0; background: #0d1117;">
 ## 💬 Daily Inspiration
 
 > **"TEXT"**  
