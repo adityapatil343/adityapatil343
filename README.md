@@ -69,9 +69,9 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
 <br>
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/adityapatil343)  
 - [Instagram](https://www.instagram.com/adityapatil343)  
-- [Email](bapuji1761@gmail.com)  
+- [Email](mailto:bapuji1761@gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&to=bapuji1761@gmail.com)
 
  🎯 Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
 
