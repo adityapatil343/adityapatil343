@@ -83,7 +83,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
     .social-link {
       display: flex; 
       align-items: center;
-      justify-content: center; /* Centering the content */
+      justify-content: flex-start; /* Keeps the logo and text in line horizontally */
     }
   }
 </style>
@@ -91,19 +91,19 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 ## 📱 Connect with Me
 
 - **📨 Telegram**:  
-  <a href="https://t.me/PMofUK" class="social-link" style="text-decoration: none; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+  <a href="https://t.me/PMofUK" class="social-link" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" style="margin-right: 10px; border-radius: 50%; border: 2px solid #0088cc; padding: 5px;">
     <span style="font-size: 24px; color: #0088cc;">PMofUK</span>
   </a>
 
 - **📬 Email**:  
-  <a href="mailto:bapuji1761@gmail.com" class="social-link" style="text-decoration: none; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+  <a href="mailto:bapuji1761@gmail.com" class="social-link" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconos_email.svg" width="30" height="30" style="margin-right: 10px; border-radius: 50%; border: 2px solid #ff5757; padding: 5px;">
     <span style="font-size: 24px; color: #ff5757;">bapuji1761@gmail.com</span>
   </a>
 
 - **📸 Instagram**:  
-  <a href="https://www.instagram.com/adityapatil343" class="social-link" style="text-decoration: none; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+  <a href="https://www.instagram.com/adityapatil343" class="social-link" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30" height="30" style="margin-right: 10px; border-radius: 50%; border: 2px solid #e4405f; padding: 5px;">
     <span style="font-size: 24px; color: #e4405f;">adityapatil343</span>
   </a>
