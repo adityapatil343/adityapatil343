@@ -19,11 +19,15 @@
 </p>
 
 ## 👨‍💻 About Me
+Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
+
 - 🔐 Exploring Cybersecurity, Cloud Security & Blockchain
 - 🤖 Automating life with Python, Playwright & Web3
 - 🧠 Building Web3 Bots, NFT tools & secure storage systems
 - 🎯 Into Red Teaming & Smart Contract Auditing
-- 📚 Final-year project: Blockchain-based Data Integrity System 💾
+- 🌐 Passionate about Decentralized Technologies & Privacy Solutions
+
+If you're here to chat tech, share ideas, or collaborate, hit me up! I'm always open to new adventures. 😄
 
  <p align="center">
   <strong>
