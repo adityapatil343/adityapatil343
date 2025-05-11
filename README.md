@@ -34,7 +34,7 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
 <br>
 If you're here to chat tech, share ideas, or collaborate, hit me up! I'm always open to new adventures. 😄
 
-<br
+<br>
 
 ## 💻 Tech Stack: 
 
