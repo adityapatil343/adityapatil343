@@ -69,9 +69,11 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 <br>
 
 ## 📫 Let’s Connect
-- **📨 Telegram**: [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/PMofUK) [PMofUK](https://t.me/PMofUK)
-- **📬 Email**: [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconos_email.svg)](mailto:bapuji1761@gmail.com) [bapuji1761@gmail.com](mailto:bapuji1761@gmail.com)
-- **📸 Instagram**: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/adityapatil343) [adityapatil343](https://www.instagram.com/adityapatil343)
+## 📱 Connect with Me
+- **📨 Telegram**: [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg =30x30)](https://t.me/PMofUK) [PMofUK](https://t.me/PMofUK)
+- **📬 Email**: [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconos_email.svg =30x30)](mailto:bapuji1761@gmail.com) [bapuji1761@gmail.com](mailto:bapuji1761@gmail.com)
+- **📸 Instagram**: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg =30x30)](https://www.instagram.com/adityapatil343) [adityapatil343](https://www.instagram.com/adityapatil343)
+
  🎯 Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
 
 <br>
