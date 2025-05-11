@@ -35,7 +35,7 @@
 
 <br>
 
-# 💻 Tech Stack: 
+## 💻 Tech Stack: 
 
 ### **Languages & Development**:  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Advanced Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)  
@@ -74,14 +74,12 @@
 
 <br>
 
-## 📫 Let’s Connect & 👥 Contribute
+## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/adityapatil343)  
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](bapuji1761@gmail.com)  
 
   Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
-
-  If you're new, check out the **[Contributing Guide](https://github.com/adityapatil343/your-repo/blob/main/CONTRIBUTING.md)**.
 
 <br>
 
