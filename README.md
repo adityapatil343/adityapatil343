@@ -73,19 +73,19 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 - **Telegram**:  
   <a href="https://t.me/PMofUK" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25" height="25" style="margin-right: 10px; border-radius: 50%; border: 2px solid #0088cc; padding: 5px;">
-    <span style="font-size: 24px; color: #0088cc;">PMofUK</span>
+    <span style="font-size: 24px; color: #0088cc;"> PMofUK</span>
   </a>
 
 - **Email**:  
   <a href="mailto:bapuji1761@gmail.com" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconos_email.svg" width="25" height="25" style="margin-right: 10px; border-radius: 50%; border: 2px solid #ff5757; padding: 5px;">
-    <span style="font-size: 24px; color: #ff5757;">bapuji1761@gmail.com</span>
+    <span style="font-size: 24px; color: #ff5757;"> bapuji1761@gmail.com</span>
   </a>
 
 - **Instagram**:  
   <a href="https://www.instagram.com/adityapatil343" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="25" height="25" style="margin-right: 10px; border-radius: 50%; border: 2px solid #e4405f; padding: 5px;">
-    <span style="font-size: 24px; color: #e4405f;">adityapatil343</span>
+    <span style="font-size: 24px; color: #e4405f;"> adityapatil343</span>
   </a>
 
  🎯 Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
