@@ -59,7 +59,7 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
   <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
 </p>
-<hr style="border: none; border-top: 0.5px solid #666; margin: 8px 0;" />
+<hr style="border: none; border-top: 1px solid #aaa; margin: 2px 0;" />
 <div align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=-ALL&column=5&margin-w=15&margin-h=15" 
