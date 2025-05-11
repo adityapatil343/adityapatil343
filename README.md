@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Profile%20Views-56,463-purple?style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- Typing Intro -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Aditya+Patil+%F0%9F%91%8B" alt="Typing SVG" />
