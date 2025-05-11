@@ -95,3 +95,6 @@
 🔹 **Total Quotes**: Currently featuring 100 inspirational quotes  
 
 </details>
+
+![Tech GIF](https://media.giphy.com/media/XreQmk7jqP6aQ/giphy.gif)
+
