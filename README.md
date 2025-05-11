@@ -26,16 +26,12 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
 - 🧠 Building Web3 Bots, NFT tools & secure storage systems
 - 🎯 Into Red Teaming & Smart Contract Auditing
 - 🌐 Passionate about Decentralized Technologies & Privacy Solutions
-
-If you're here to chat tech, share ideas, or collaborate, hit me up! I'm always open to new adventures. 😄
-
  <p align="center">
   <strong>
     🛡️ Cybersecurity Student &nbsp;|&nbsp; 🧠 Slow Learner, Fast Builder &nbsp;|&nbsp; 🚀 Blockchain Dev &nbsp;|&nbsp; 🤖 Automation Wizard
   </strong>
 </p>
-
-<br>
+If you're here to chat tech, share ideas, or collaborate, hit me up! I'm always open to new adventures. 😄
 
 ## 💻 Tech Stack: 
 
