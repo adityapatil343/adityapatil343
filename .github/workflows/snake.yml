@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake Animation 
 
 on:
   schedule:
@@ -15,18 +15,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Snake animation
+      - name: Generate GitHub Snake animations
         uses: Platane/snk@v3
         with:
           github_user_name: adityapatil343
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake.gif
+          config: >
+            [
+              {
+                "output": "dist/github-contribution-grid-snake.svg",
+                "theme": "github-light"
+              },
+              {
+                "output": "dist/github-contribution-grid-snake-dark.svg",
+                "theme": "github-dark"
+              }
+            ]
 
       - name: Commit and Push animation
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Generated snake animation"
+          message: "Generated snake animation with dark mode support"
           add: "dist/*.svg dist/*.gif"
