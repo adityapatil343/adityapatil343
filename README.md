@@ -77,8 +77,8 @@
 
 ## 💬 Daily Inspiration
 
-> **"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."**  
-> — *Martin Golding*  
+> **"You are not a real programmer until you end a debugging session with 'It was a typo.'"**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
