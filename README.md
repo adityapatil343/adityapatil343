@@ -10,9 +10,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-56,463-purple?style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/dist/github-contribution-grid-snake.svg" />
