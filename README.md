@@ -60,8 +60,6 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
 </p>
 
----
-
 <div align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=-ALL&column=6&margin-w=15&margin-h=15" 
