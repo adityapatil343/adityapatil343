@@ -79,6 +79,12 @@
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](bapuji1761@gmail.com)  
 
+## 👥 Contribute
+
+Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
+
+If you're new, check out the **[Contributing Guide](https://github.com/adityapatil343/your-repo/blob/main/CONTRIBUTING.md)**.
+
 ## 💬 Daily Inspiration
 
 > **"You are not a real programmer until you end a debugging session with 'It was a typo.'"**  
