@@ -72,7 +72,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 - **Telegram**:  
   <a href="https://t.me/PMofUK" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25" height="25" style="margin-right: 10px; border-radius: 50%; border: 2px solid #0088cc; padding: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25" height="25" style="margin-right: 10px; border-radius: 50%; border: 5px solid #0088cc; padding: 5px;">
     <span style="font-size: 24px; color: #0088cc;">PMofUK</span>
   </a>
 
