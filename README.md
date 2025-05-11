@@ -18,14 +18,14 @@
   </picture>
 </p>
 
-## 👨‍💻 About Me
-Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
+## 👨‍💻 About Me  
+Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
-- 🔐 Exploring Cybersecurity, Cloud Security & Blockchain
-- 🤖 Automating life with Python, Playwright & Web3
-- 🧠 Building Web3 Bots, NFT tools & secure storage systems
-- 🎯 Into Red Teaming & Smart Contract Auditing
-- 🌐 Passionate about Decentralized Technologies & Privacy Solutions
+- 🔐 Exploring **Cybersecurity**, **Cloud Security**, **Decentralized Storage**, and **Blockchain**.
+- 🤖 Automating everyday tasks with **Python**, **Playwright**, and **Web3**.
+- 🧠 Building **Web3 Bots**, **NFT Tools**, **Secure Storage Systems**, and **AI-powered Automation Bots**.
+- 🎯 Focused on **Red Teaming** and **Smart Contract Auditing**.
+- 🌐 Passionate about **Decentralized Technologies** and **Privacy Solutions**.
  <p align="center">
   <strong>
     🛡️ Cybersecurity Student &nbsp;|&nbsp; 🧠 Slow Learner, Fast Builder &nbsp;|&nbsp; 🚀 Blockchain Dev &nbsp;|&nbsp; 🤖 Automation Wizard
