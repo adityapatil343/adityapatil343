@@ -69,10 +69,10 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 <br>
 
 ## 📫 Let’s Connect
-## 📱 Connect with Me
-- **📨 Telegram**: [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg =30x30)](https://t.me/PMofUK) [PMofUK](https://t.me/PMofUK)
-- **📬 Email**: [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconos_email.svg =30x30)](mailto:bapuji1761@gmail.com) [bapuji1761@gmail.com](mailto:bapuji1761@gmail.com)
-- **📸 Instagram**: [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg =30x30)](https://www.instagram.com/adityapatil343) [adityapatil343](https://www.instagram.com/adityapatil343)
+
+- **📨 Telegram**: <a href="https://t.me/PMofUK"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" /></a> [PMofUK](https://t.me/PMofUK)
+- **📬 Email**: <a href="mailto:bapuji1761@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconos_email.svg" width="30" height="30" /></a> [bapuji1761@gmail.com](mailto:bapuji1761@gmail.com)
+- **📸 Instagram**: <a href="https://www.instagram.com/adityapatil343"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30" height="30" /></a> [adityapatil343](https://www.instagram.com/adityapatil343)
 
  🎯 Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
 
