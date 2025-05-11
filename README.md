@@ -79,7 +79,7 @@
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](bapuji1761@gmail.com)  
 
-  Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
+ 🎯 Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
 
 <br>
 
