@@ -54,15 +54,13 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
 
 <br>
 
-## 🔥 GitHub Stats  
+## 🔥 GitHub Stats & 🏆 GitHub Trophies (Achievements)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
 </p>
 
 ---
-
-## 🏆 GitHub Trophies (Achievements)
 
 <div align="center">
   <img 
