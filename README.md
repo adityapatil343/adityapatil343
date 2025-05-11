@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/github/followers/adityapatil343?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
-## 🐍 GitHub Activity Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
