@@ -68,6 +68,7 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
     alt="GitHub Trophies"
     style="max-width: 100%; width: 800px;" />
 </div>
+
 ---
 
 <br>
