@@ -74,16 +74,16 @@
 
 <br>
 
-## 📫 Let’s Connect  
+## 📫 Let’s Connect & 👥 Contribute
 - [LinkedIn](https://www.linkedin.com/in/adityapatil343)  
 - [Instagram](https://www.instagram.com/adityapatil343)  
 - [Email](bapuji1761@gmail.com)  
 
-## 👥 Contribute
+  Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
 
-Interested in helping with my projects? I would love your contributions! Feel free to open an issue or create a pull request. 
+  If you're new, check out the **[Contributing Guide](https://github.com/adityapatil343/your-repo/blob/main/CONTRIBUTING.md)**.
 
-If you're new, check out the **[Contributing Guide](https://github.com/adityapatil343/your-repo/blob/main/CONTRIBUTING.md)**.
+<br>
 
 ## 💬 Daily Inspiration
 
@@ -101,6 +101,3 @@ If you're new, check out the **[Contributing Guide](https://github.com/adityapat
 🔹 **Total Quotes**: Currently featuring 100 inspirational quotes  
 
 </details>
-
-![Tech GIF](https://media.giphy.com/media/XreQmk7jqP6aQ/giphy.gif)
-
