@@ -34,6 +34,8 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
 <br>
 If you're here to chat tech, share ideas, or collaborate, hit me up! I'm always open to new adventures. 😄
 
+<br
+
 ## 💻 Tech Stack: 
 
 ### **Languages & Development**:  
@@ -59,8 +61,6 @@ If you're here to chat tech, share ideas, or collaborate, hit me up! I'm always 
   <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
 </p>
-
-<br>
 
 ## 🏆 GitHub Trophies (Achievements)
 
