@@ -71,8 +71,6 @@ Hey there! I'm **Aditya**, but you can call me **Aadiii** or **Aadu** 😄
 
 ---
 
-<br>
-
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/adityapatil343)  
 - [Instagram](https://www.instagram.com/adityapatil343)  
