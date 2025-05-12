@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"You are not a real programmer until you end a debugging session with 'It was a typo.'"**  
-> — *Anonymous*  
+> **"Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."**  
+> — *Eagleson's Law*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
