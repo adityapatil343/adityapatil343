@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"A good programmer is someone who always looks both ways before crossing a one-way street."**  
-> — *Doug Linder*  
+> **"Writing code has a place in the human hierarchy worth somewhere above grave robbing and beneath managing."**  
+> — *Gerald Weinberg*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
