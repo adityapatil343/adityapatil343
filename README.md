@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Writing code has a place in the human hierarchy worth somewhere above grave robbing and beneath managing."**  
-> — *Gerald Weinberg*  
+> **"Every piece of software written today is going to infringe on someone else's patent."**  
+> — *Miguel de Icaza*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
