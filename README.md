@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Every piece of software written today is going to infringe on someone else's patent."**  
-> — *Miguel de Icaza*  
+> **"You can't have great software without a great team, and most software teams behave like dysfunctional families."**  
+> — *Jim McCarthy*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
