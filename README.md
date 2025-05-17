@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"You can't have great software without a great team, and most software teams behave like dysfunctional families."**  
-> — *Jim McCarthy*  
+> **"Programming is not easy like Sunday morning, it is silent poetry."**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
