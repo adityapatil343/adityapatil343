@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Programming is not easy like Sunday morning, it is silent poetry."**  
-> — *Anonymous*  
+> **"Always implement things when you actually need them, never when you just foresee that you need them."**  
+> — *Ron Jeffries*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
