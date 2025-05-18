@@ -61,7 +61,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 </p>
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&column=10&theme=gruvbox&no-frame=true" 
+    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=darkhub&no-frame=true&no-bg=true&rank=-ALL&column=5&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
     style="max-width: 100%; width: 800px;" />
 </div>
