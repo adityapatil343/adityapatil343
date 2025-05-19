@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Always implement things when you actually need them, never when you just foresee that you need them."**  
-> — *Ron Jeffries*  
+> **"Good code is short, simple, and symmetrical – the challenge is figuring out how to get there."**  
+> — *Sean Parent*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
