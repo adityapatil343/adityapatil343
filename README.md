@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Good code is short, simple, and symmetrical – the challenge is figuring out how to get there."**  
-> — *Sean Parent*  
+> **"People always fear change. People feared electricity when it was invented, didn't they?"**  
+> — *Bill Gates*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
