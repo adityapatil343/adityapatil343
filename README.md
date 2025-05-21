@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"People always fear change. People feared electricity when it was invented, didn't they?"**  
-> — *Bill Gates*  
+> **"You are not a real programmer until you end a debugging session with 'It was a typo.'"**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
