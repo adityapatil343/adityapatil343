@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"You are not a real programmer until you end a debugging session with 'It was a typo.'"**  
-> — *Anonymous*  
+> **"Good code is short, simple, and symmetrical – the challenge is figuring out how to get there."**  
+> — *Sean Parent*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
