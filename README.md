@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"A good programmer is someone who always looks both ways before crossing a one-way street."**  
-> — *Doug Linder*  
+> **"Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline."**  
+> — *Bill Clinton*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
