@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Simple things should be simple, complex things should be possible."**  
-> — *Alan Kay*  
+> **"If you optimize everything, you will always be unhappy."**  
+> — *Donald Knuth*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
