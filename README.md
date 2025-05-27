@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"If you optimize everything, you will always be unhappy."**  
-> — *Donald Knuth*  
+> **"Always implement things when you actually need them, never when you just foresee that you need them."**  
+> — *Ron Jeffries*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
