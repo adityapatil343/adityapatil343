@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Always implement things when you actually need them, never when you just foresee that you need them."**  
-> — *Ron Jeffries*  
+> **"Windows NT addresses 2 Gigabytes of RAM, which is more than any application will ever need."**  
+> — *Microsoft*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
