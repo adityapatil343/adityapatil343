@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Windows NT addresses 2 Gigabytes of RAM, which is more than any application will ever need."**  
-> — *Microsoft*  
+> **"The most important property of a program is whether it accomplishes the intention of its user."**  
+> — *C.A.R. Hoare*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
