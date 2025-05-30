@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The most important property of a program is whether it accomplishes the intention of its user."**  
-> — *C.A.R. Hoare*  
+> **"I've finally learned what 'upward compatible' means. It means we get to keep all our old mistakes."**  
+> — *Dennie van Tassel*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
