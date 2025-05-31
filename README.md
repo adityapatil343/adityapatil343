@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"I've finally learned what 'upward compatible' means. It means we get to keep all our old mistakes."**  
-> — *Dennie van Tassel*  
+> **"The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry."**  
+> — *Henry Petroski*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
