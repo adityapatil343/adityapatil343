@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"640K ought to be enough for anybody."**  
-> — *Bill Gates*  
+> **"Hardware: The parts of a computer system that can be kicked."**  
+> — *Jeff Pesis*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
