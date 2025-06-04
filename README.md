@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Hardware: The parts of a computer system that can be kicked."**  
-> — *Jeff Pesis*  
+> **"The most important property of a program is whether it accomplishes the intention of its user."**  
+> — *C.A.R. Hoare*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
