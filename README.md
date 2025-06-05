@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The most important property of a program is whether it accomplishes the intention of its user."**  
-> — *C.A.R. Hoare*  
+> **"In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer's shifting idea of what their problem is."**  
+> — *Jeff Atwood*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
