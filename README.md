@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"If it keeps up, man will atrophy all his limbs but the push-button finger."**  
-> — *Frank Lloyd Wright*  
+> **"Software testing is a sport like hunting, it's bughunting."**  
+> — *Amit Kalantri*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
