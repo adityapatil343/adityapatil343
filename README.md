@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Clean code always looks like it was written by someone who cares."**  
-> — *Robert C. Martin*  
+> **"It is not about bits, bytes and protocols, but profits, losses and margins."**  
+> — *Lou Gerstner*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
