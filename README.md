@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"It is not about bits, bytes and protocols, but profits, losses and margins."**  
-> — *Lou Gerstner*  
+> **"Deleted code is debugged code."**  
+> — *Jeff Sickel*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
