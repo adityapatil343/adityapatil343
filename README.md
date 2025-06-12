@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Programming isn't just about writing code. It's about solving problems."**  
-> — *Anonymous*  
+> **"There are only two kinds of programming languages: those people always bitch about and those nobody uses."**  
+> — *Bjarne Stroustrup*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
