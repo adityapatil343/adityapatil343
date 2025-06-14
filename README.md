@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"But what is it good for?"**  
-> — *Engineer at IBM, commenting on the microchip*  
+> **"Software is like sex: It's better when it's free."**  
+> — *Linus Torvalds*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
