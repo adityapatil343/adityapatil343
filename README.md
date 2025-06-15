@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Software is like sex: It's better when it's free."**  
-> — *Linus Torvalds*  
+> **"To err is human, but to really foul things up you need a computer."**  
+> — *Paul Ehrlich*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
