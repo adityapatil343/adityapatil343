@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"To err is human, but to really foul things up you need a computer."**  
-> — *Paul Ehrlich*  
+> **"One man’s crappy software is another man’s full-time job."**  
+> — *Jessica Gaston*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
