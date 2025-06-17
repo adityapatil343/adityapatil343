@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"One man’s crappy software is another man’s full-time job."**  
-> — *Jessica Gaston*  
+> **"The best method for accelerating a computer is the one that boosts it by 9.8 m/s²."**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
