@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The best method for accelerating a computer is the one that boosts it by 9.8 m/s²."**  
-> — *Anonymous*  
+> **"The use of COBOL cripples the mind; its teaching should therefore be regarded as a criminal offense."**  
+> — *E.W. Dijkstra*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
