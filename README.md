@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The use of COBOL cripples the mind; its teaching should therefore be regarded as a criminal offense."**  
-> — *E.W. Dijkstra*  
+> **"Even the best planning is not so omniscient as to get it right the first time."**  
+> — *Fred Brooks*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
