@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Even the best planning is not so omniscient as to get it right the first time."**  
-> — *Fred Brooks*  
+> **"It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration."**  
+> — *E. W. Dijkstra*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
