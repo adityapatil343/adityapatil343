@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration."**  
-> — *E. W. Dijkstra*  
+> **"If you optimize everything, you will always be unhappy."**  
+> — *Donald Knuth*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
