@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"If you optimize everything, you will always be unhappy."**  
-> — *Donald Knuth*  
+> **"Programming can be fun, so can cryptography; however, they should not be combined."**  
+> — *Kreitzberg and Shneiderman*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
