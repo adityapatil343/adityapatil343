@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"People always fear change. People feared electricity when it was invented, didn't they?"**  
-> — *Bill Gates*  
+> **"First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack."**  
+> — *George Carrette*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
