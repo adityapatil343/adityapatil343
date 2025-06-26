@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack."**  
-> — *George Carrette*  
+> **"If you optimize everything, you will always be unhappy."**  
+> — *Donald Knuth*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
