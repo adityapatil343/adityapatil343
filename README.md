@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"When performance is measured, performance improves."**  
-> — *Thomas Monson*  
+> **"Windows NT addresses 2 Gigabytes of RAM, which is more than any application will ever need."**  
+> — *Microsoft*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
