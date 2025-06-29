@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Windows NT addresses 2 Gigabytes of RAM, which is more than any application will ever need."**  
-> — *Microsoft*  
+> **"To err is human, but to really foul things up you need a computer."**  
+> — *Paul Ehrlich*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
