@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"To err is human, but to really foul things up you need a computer."**  
-> — *Paul Ehrlich*  
+> **"Good code is short, simple, and symmetrical – the challenge is figuring out how to get there."**  
+> — *Sean Parent*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
