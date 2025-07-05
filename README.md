@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"To iterate is human, to recurse divine."**  
-> — *L. Peter Deutsch*  
+> **"If you automate a mess, you get an automated mess."**  
+> — *Rod Michael*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
