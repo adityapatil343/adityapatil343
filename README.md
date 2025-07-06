@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"If you automate a mess, you get an automated mess."**  
-> — *Rod Michael*  
+> **"First, solve the problem. Then, write the code."**  
+> — *John Johnson*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
