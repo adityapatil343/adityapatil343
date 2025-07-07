@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"First, solve the problem. Then, write the code."**  
-> — *John Johnson*  
+> **"There is no such thing as a perfect program."**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
