@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Optimism is an occupational hazard of programming; feedback is the treatment."**  
-> — *Kent Beck*  
+> **"Never trust a computer you can't throw out a window."**  
+> — *Steve Wozniak*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
