@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Never trust a computer you can't throw out a window."**  
-> — *Steve Wozniak*  
+> **"It would appear that we have reached the limits of what it is possible to achieve with computer technology."**  
+> — *John Von Neumann*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
