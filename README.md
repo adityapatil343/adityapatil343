@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"It would appear that we have reached the limits of what it is possible to achieve with computer technology."**  
-> — *John Von Neumann*  
+> **"First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack."**  
+> — *George Carrette*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
