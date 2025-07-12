@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack."**  
-> — *George Carrette*  
+> **"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other."**  
+> — *Alan Kay*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
