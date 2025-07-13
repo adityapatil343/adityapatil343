@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other."**  
-> — *Alan Kay*  
+> **"The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time."**  
+> — *Tom Cargill*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
