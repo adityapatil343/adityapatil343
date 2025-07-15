@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."**  
-> — *Dan Salomon*  
+> **"But what is it good for?"**  
+> — *Engineer at IBM, commenting on the microchip*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
