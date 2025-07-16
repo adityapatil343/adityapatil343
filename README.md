@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"But what is it good for?"**  
-> — *Engineer at IBM, commenting on the microchip*  
+> **"The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time."**  
+> — *Tom Cargill*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
