@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time."**  
-> — *Tom Cargill*  
+> **"I think Microsoft named .Net so it wouldn't show up in a Unix directory listing."**  
+> — *Oktal*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
