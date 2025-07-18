@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"I think Microsoft named .Net so it wouldn't show up in a Unix directory listing."**  
-> — *Oktal*  
+> **"Good code is its own best documentation."**  
+> — *Steve McConnell*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
