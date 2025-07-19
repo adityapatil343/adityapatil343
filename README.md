@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Good code is its own best documentation."**  
-> — *Steve McConnell*  
+> **"The function of good software is to make the complex appear to be simple."**  
+> — *Grady Booch*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
