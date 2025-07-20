@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The function of good software is to make the complex appear to be simple."**  
-> — *Grady Booch*  
+> **"If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, 'We're sorry, here's a coupon for two more.'"**  
+> — *Mark Minasi*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
