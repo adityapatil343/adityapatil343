@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, 'We're sorry, here's a coupon for two more.'"**  
-> — *Mark Minasi*  
+> **"A user interface is like a joke. If you have to explain it, it’s not that good."**  
+> — *Martin LeBlanc*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
