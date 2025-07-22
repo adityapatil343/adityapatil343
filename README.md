@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"A user interface is like a joke. If you have to explain it, it’s not that good."**  
-> — *Martin LeBlanc*  
+> **"Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline."**  
+> — *Bill Clinton*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
