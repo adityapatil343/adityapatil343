@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline."**  
-> — *Bill Clinton*  
+> **"True innovation often comes from the small startup who is lean enough to launch a market but lacks the heft to own it."**  
+> — *Timm Martin*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
