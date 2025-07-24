@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"True innovation often comes from the small startup who is lean enough to launch a market but lacks the heft to own it."**  
-> — *Timm Martin*  
+> **"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."**  
+> — *Bill Gates*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
