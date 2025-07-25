@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."**  
-> — *Bill Gates*  
+> **"As soon as we started programming, we found to our surprise that it wasn't as easy to get programs right as we had thought. Debugging had to be discovered."**  
+> — *Maurice Wilkes*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
