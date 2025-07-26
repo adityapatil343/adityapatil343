@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"As soon as we started programming, we found to our surprise that it wasn't as easy to get programs right as we had thought. Debugging had to be discovered."**  
-> — *Maurice Wilkes*  
+> **"I don't care if it works on your machine! We are not shipping your machine!"**  
+> — *Vidiu Platon*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
