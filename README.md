@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"I don't care if it works on your machine! We are not shipping your machine!"**  
-> — *Vidiu Platon*  
+> **"Simple things should be simple, complex things should be possible."**  
+> — *Alan Kay*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
