@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Good code is its own best documentation."**  
-> — *Steve McConnell*  
+> **"Clean code always looks like it was written by someone who cares."**  
+> — *Robert C. Martin*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
