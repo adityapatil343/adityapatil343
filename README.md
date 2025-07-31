@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Software is like sex: It's better when it's free."**  
-> — *Linus Torvalds*  
+> **"Everything that can be invented has been invented."**  
+> — *Charles H. Duell*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
