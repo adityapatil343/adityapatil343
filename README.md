@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Everything that can be invented has been invented."**  
-> — *Charles H. Duell*  
+> **"Hardware: The parts of a computer system that can be kicked."**  
+> — *Jeff Pesis*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
