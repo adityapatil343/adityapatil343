@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Hardware: The parts of a computer system that can be kicked."**  
-> — *Jeff Pesis*  
+> **"The only valid measurement of code quality: WTFs per minute."**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
