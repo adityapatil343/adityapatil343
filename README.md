@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The only valid measurement of code quality: WTFs per minute."**  
-> — *Anonymous*  
+> **"I think there's a world market for about 5 computers."**  
+> — *Thomas J. Watson*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
