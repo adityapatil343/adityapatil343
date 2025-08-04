@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"I think there's a world market for about 5 computers."**  
-> — *Thomas J. Watson*  
+> **"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."**  
+> — *Martin Golding*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
