@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."**  
-> — *Martin Golding*  
+> **"Good programmers use their brains, but good guidelines save us having to think out every case."**  
+> — *Francis Glassborow*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
