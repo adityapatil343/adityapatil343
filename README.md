@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Good programmers use their brains, but good guidelines save us having to think out every case."**  
-> — *Francis Glassborow*  
+> **"PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil perpetrated by skilled but perverted professionals."**  
+> — *Jon Ribbens*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
