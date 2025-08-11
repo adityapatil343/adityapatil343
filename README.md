@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"You are not a real programmer until you end a debugging session with 'It was a typo.'"**  
-> — *Anonymous*  
+> **"It has been said that the great scientific disciplines are examples of giants standing on the shoulders of other giants."**  
+> — *Alan Cooper*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
