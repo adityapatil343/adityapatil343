@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"It has been said that the great scientific disciplines are examples of giants standing on the shoulders of other giants."**  
-> — *Alan Cooper*  
+> **"The best thing about a boolean is even if you are wrong, you are only off by a bit."**  
+> — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
