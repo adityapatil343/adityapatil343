@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The best thing about a boolean is even if you are wrong, you are only off by a bit."**  
-> — *Anonymous*  
+> **"Simple things should be simple, complex things should be possible."**  
+> — *Alan Kay*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
