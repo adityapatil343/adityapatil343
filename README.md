@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Even the best planning is not so omniscient as to get it right the first time."**  
-> — *Fred Brooks*  
+> **"It would appear that we have reached the limits of what it is possible to achieve with computer technology."**  
+> — *John Von Neumann*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
