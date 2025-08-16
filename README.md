@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"It would appear that we have reached the limits of what it is possible to achieve with computer technology."**  
-> — *John Von Neumann*  
+> **"I think Microsoft named .Net so it wouldn't show up in a Unix directory listing."**  
+> — *Oktal*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
