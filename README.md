@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"I think Microsoft named .Net so it wouldn't show up in a Unix directory listing."**  
-> — *Oktal*  
+> **"When performance is measured, performance improves."**  
+> — *Thomas Monson*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
