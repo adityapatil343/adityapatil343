@@ -93,7 +93,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"The best thing about a boolean is even if you are wrong, you are only off by a bit."**  
+> **"Programming isn't just about writing code. It's about solving problems."**  
 > — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
