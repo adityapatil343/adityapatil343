@@ -93,7 +93,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Programming isn't just about writing code. It's about solving problems."**  
+> **"Hard things are hard."**  
 > — *Anonymous*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
