@@ -93,8 +93,8 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ## 💬 Daily Inspiration
 
-> **"Hard things are hard."**  
-> — *Anonymous*  
+> **"Optimism is an occupational hazard of programming; feedback is the treatment."**  
+> — *Kent Beck*  
 >  
 > 🔄 *Automatically refreshes every 24 hours*
 
