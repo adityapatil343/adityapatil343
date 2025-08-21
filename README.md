@@ -16,6 +16,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/dist/github-contribution-grid-snake.svg" />
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/adityapatil343/adityapatil343/main/dist/github-contribution-grid-snake.svg" />
   </picture>
+🌟 <b>commitment streak (days)</b> 🌟
 </p>
 
 ## 👨‍💻 About Me  
