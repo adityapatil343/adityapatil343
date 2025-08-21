@@ -88,9 +88,3 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
   </a>
 
 🎯 Want to contribute? Feel free to open an issue or pull request!
-
-
-
-### 🎮 Play Tic-Tac-Toe vs AI
-[![Play Now](https://img.shields.io/badge/Play_TicTacToe-Click_to_Play-39ff14?style=for-the-badge)](https://adityapatil343.github.io/adityapatil343/)
-
