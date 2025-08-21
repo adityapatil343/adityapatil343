@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me  
 Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
-- 🔐 Exploring **Cybersecurity**, **Cloud Security**, **Decentralized Storage**, and **Blockchain**.
+- 🔐 Exploring **Cyber Security**, **Cloud Security**, **Decentralized Storage**, and **Blockchain**.
 - 🤖 Automating everyday tasks with **Python**, **Playwright**, and **Web3**.
 - 🧠 Building **Web3 Bots**, **NFT Tools**, **Secure Storage Systems**, and **AI-powered Automation Bots**.
 - 🎯 Focused on **Red Teaming** and **Smart Contract Auditing**.
