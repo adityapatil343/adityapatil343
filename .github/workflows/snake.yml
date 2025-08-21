@@ -1,8 +1,10 @@
 name: Generate Snake Animation
 
 on:
+  # Run on schedule – weekly on Friday at 08:00 UTC
   schedule:
-    - cron: "0 0 * * *" # runs daily
+    - cron: "0 8 * * 5"
+  # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
 permissions:
@@ -43,5 +45,5 @@ jobs:
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Generated snake animation with dark mode support"
+          message: "Generated snake animation (weekly update)"
           add: "dist/*.svg"
