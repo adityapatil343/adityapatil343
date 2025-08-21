@@ -88,22 +88,3 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
   </a>
 
 🎯 Want to contribute? Feel free to open an issue or pull request!
-
-<br>
-
-## 💬 Daily Inspiration
-
-> **"Optimism is an occupational hazard of programming; feedback is the treatment."**  
-> — *Kent Beck*  
->  
-> 🔄 *Automatically refreshes every 24 hours*
-
-<details>
-<summary>ℹ️ About this feature (click to expand)</summary>
-
-🔹 **Daily Rotation**: Fresh quote selected automatically  
-🔹 **Source**: Curated collection in [`quotes.json`](.github/data/quotes.json)  
-🔹 **Schedule**: Updates at 00:00 UTC daily  
-🔹 **Total Quotes**: Currently featuring 100 inspirational quotes  
-
-</details>
