@@ -62,11 +62,11 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
   <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
 </p>
-<div align="center">
+<div align="center"> 
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=gruvbox&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" 
-    alt="GitHub Trophies"
-    style="max-width: 100%; width: 800px;" />
+    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=gruvbox&no-frame=true&no-bg=true&rank=-ALL&column=5&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies" 
+    style="max-width: 100%; width: 800px;" /> 
 </div>
 
 <br>
