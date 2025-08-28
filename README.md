@@ -71,28 +71,24 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 <br>
 
-## 📱 Connect with Me
+## 📱 Connect with Me:
 
 - **Telegram**:  
-  <a href="https://t.me/PMofUK" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="28" height="28" style="border-radius: 50%; border: 2px solid #0088cc; padding: 3px;">
-      <span style="margin-left: 8px; font-size: 18px; color: #0088cc; font-weight: bold;">Click Here</span>
-    </span>
+  <a href="https://t.me/PMofUK" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="28" height="28" style="border-radius: 50%; border: 2px solid #0088cc; padding: 3px;">
+    <span style="font-size: 18px; color: #0088cc; font-weight: bold;">Click Here</span>
   </a>
 
 - **Email**:  
-  <a href="mailto:bapuji1761@gmail.com" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" height="28" style="border-radius: 6px; border: 2px solid #ff5757; padding: 3px;">
-      <span style="margin-left: 8px; font-size: 18px; color: #ff5757; font-weight: bold;">Click Here</span>
-    </span>
+  <a href="mailto:bapuji1761@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" height="28" style="border-radius: 6px; border: 2px solid #ff5757; padding: 3px;">
+    <span style="font-size: 18px; color: #ff5757; font-weight: bold;">Click Here</span>
   </a>
 
 - **Instagram**:  
-  <a href="https://www.instagram.com/adityapatil343" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" height="28" style="border-radius: 6px; border: 2px solid #e4405f; padding: 3px;">
-      <span style="margin-left: 8px; font-size: 18px; color: #e4405f; font-weight: bold;">Click Here</span>
-    </span>
+  <a href="https://www.instagram.com/adityapatil343" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28" height="28" style="border-radius: 6px; border: 2px solid #e4405f; padding: 3px;">
+    <span style="font-size: 18px; color: #e4405f; font-weight: bold;">Click Here</span>
   </a>
+
+🎯 Want to contribute? Feel free to open an issue or pull request!
