@@ -94,5 +94,5 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 🎯 Want to contribute? Feel free to open an issue or pull request!
 
 <p align="right">
-  <a href="#PROFILE VIEWS" > ↑ Back to top </a>
+  <a href="## 👨‍💻 About Me" > ↑ Back to top </a>
 </p>
