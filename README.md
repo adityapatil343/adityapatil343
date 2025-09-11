@@ -92,3 +92,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
   </a>
 
 🎯 Want to contribute? Feel free to open an issue or pull request!
+
+<p align="right">
+  <a href="#about" > ↑ Back to top </a>
+</p>
