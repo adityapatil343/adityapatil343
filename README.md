@@ -95,4 +95,4 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 🎯 Want to contribute? Feel free to open an issue or pull request!
 
-<p align="right"><a href="#readme">↑ Back to top</a></p>
+<p align="right"><a href="#top">↑ Back to top</a></p>
