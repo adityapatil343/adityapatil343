@@ -93,6 +93,4 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 🎯 Want to contribute? Feel free to open an issue or pull request!
 
-## About Me
-...
 <p align="right"><a href="#readme">↑ Back to top</a></p>
