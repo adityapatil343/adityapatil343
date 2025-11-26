@@ -27,7 +27,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 - 🔐 Exploring **Cyber Security**, **Cloud Security**, **Decentralized Storage** and **Blockchain**.
 - 🤖 Automating everyday tasks with **Python**, **Playwright** and **Web3**.
-- 🧠 Building **Web3 Bots**, **NFT Tools**, **Secure Storage Systems**, and **AI-powered Automations**.
+- 🧠 Building **Web3 Bots**, **NFT Tools**, **Secure Storage Systems** and **AI-powered Automations**.
 - 🎯 Focused on **Red Teaming** and **Smart Contract Auditing**.
 - 🌐 Passionate about **Decentralized Technologies** and **Privacy Solutions**.
  <p align="center">
@@ -50,11 +50,11 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
 ### **DevOps & Automation**:  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)  
-*(Version control, CI/CD, and automation tools)*
+*(Version control, CI/CD and automation tools)*
 
 ### **Specialized Technologies**:  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF6600?style=flat-square&logo=ethereum&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white)  
-*(Databases, blockchain, and testing frameworks)*
+*(Databases, blockchain and testing frameworks)*
 
 <br>
 
