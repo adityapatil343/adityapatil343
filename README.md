@@ -59,15 +59,28 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 <br>
 
 ## 🔥 GitHub Stats & 🏆 GitHub Trophies (Achievements)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil343&theme=radical" />
-</p>
-<div align="center"> 
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=gruvbox&no-frame=true&no-bg=true&rank=-ALL&column=5&margin-w=15&margin-h=15" 
+    src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical&cache_seconds=86400" 
+    alt="GitHub Stats" 
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=adityapatil343&theme=radical&cache_seconds=86400" 
+    alt="GitHub Streak Stats" 
+  />
+</p>
+
+<div align="center"> 
+  <!-- GitHub Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=gruvbox&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" 
     alt="GitHub Trophies" 
-    style="max-width: 100%; width: 800px;" /> 
+    style="max-width: 100%; width: 800px;" 
+  /> 
 </div>
 
 <br>
