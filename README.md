@@ -69,7 +69,7 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 
   <!-- GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com/?user=adityapatil343&theme=radical&cache_seconds=86400" 
+    src="https://streak-stats.demolab.com?user=adityapatil343&theme=radical&cache_seconds=86400" 
     alt="GitHub Streak Stats" 
   />
 </p>
@@ -77,13 +77,11 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 <div align="center"> 
   <!-- GitHub Trophies -->
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=gruvbox&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=gruvbox&column=6" 
     alt="GitHub Trophies" 
     style="max-width: 100%; width: 800px;" 
   /> 
 </div>
-
-<br>
 
 ## 📱 Connect with Me:
 
