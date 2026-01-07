@@ -61,27 +61,51 @@ Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
 ## 🔥 GitHub Stats & 🏆 GitHub Trophies (Achievements)
 
 <p align="center">
-  <!-- GitHub Stats -->
+
+  <!-- Main GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=radical&cache_seconds=86400" 
-    alt="GitHub Stats" 
+    src="https://gh-stats.vercel.app/api?username=adityapatil343&show_icons=true&theme=dark&count_private=true&hide_border=true&border_radius=10" 
+    alt="GitHub Stats"
+    width="45%"
   />
 
-  <!-- GitHub Streak -->
+  <!-- Top Languages -->
   <img 
-    src="https://streak-stats.demolab.com?user=adityapatil343&theme=radical&cache_seconds=86400" 
-    alt="GitHub Streak Stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil343&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    alt="Top Languages"
+    width="45%"
   />
+
+  <br><br>
+
+  <!-- Contribution Heatmap -->
+  <img 
+    src="https://activity-graph.herokuapp.com/graph?username=adityapatil343&theme=react-dark&hide_border=true" 
+    alt="GitHub Activity Graph" 
+    width="90%"
+  />
+
+  <br><br>
+
+  <!-- Achievement Badges -->
+  <!-- Follower Milestones -->
+  <img src="https://img.shields.io/badge/🎯--Followers-%20%3E%2010-1abc9c?style=flat-square" />
+  <img src="https://img.shields.io/badge/📦--Public%20Repos-%3E%2030-3498db?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐--Total%20Stars-%3E%20100-f1c40f?style=flat-square" />
+
+  <br>
+
+  <!-- Contribution Milestones -->
+  <img src="https://img.shields.io/badge/🔥--Streak-%3E%20100-days-e74c3c?style=flat-square" />
+  <img src="https://img.shields.io/badge/🛠️--Commits-%3E%201000-9b59b6?style=flat-square" />
+
+  <br><br>
+
+  <!-- Platform Badges -->
+  <img src="https://img.shields.io/badge/🐱--Open%20Source%20Contributor-8e44ad?style=flat-square" />
+  <img src="https://img.shields.io/badge/📈--Active%20Developer-2ecc71?style=flat-square" />
+
 </p>
-
-<div align="center"> 
-  <!-- GitHub Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=adityapatil343&theme=gruvbox&column=6" 
-    alt="GitHub Trophies" 
-    style="max-width: 100%; width: 800px;" 
-  /> 
-</div>
 
 ## 📱 Connect with Me:
 
