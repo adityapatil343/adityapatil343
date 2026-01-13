@@ -23,13 +23,13 @@
 </p>
 
 ## 👨‍💻 About Me  
-Hey there! I'm **Aditya**, but you can call me **0xAadiii** 😄
+Hey there! I'm **Aditya**
 
-- 🔐 Exploring **Cyber Security**, **Cloud Security**, **Decentralized Storage** and **Blockchain**.
-- 🤖 Automating everyday tasks with **Python**, **Playwright** and **Web3**.
-- 🧠 Building **Web3 Bots**, **NFT Tools**, **Secure Storage Systems** and **AI-powered Automations**.
-- 🎯 Focused on **Red Teaming** and **Smart Contract Auditing**.
-- 🌐 Passionate about **Decentralized Technologies** and **Privacy Solutions**.
+- Exploring **Cyber Security**, **Cloud Security**, **Decentralized Storage** and **Blockchain**.
+- Automating everyday tasks with **Python**, **Playwright** and **Web3**.
+- Building **Web3 Bots**, **NFT Tools**, **Secure Storage Systems** and **AI-powered Automations**.
+- Focused on **Red Teaming** and **Smart Contract Auditing**.
+- Passionate about **Decentralized Technologies** and **Privacy Solutions**.
  <p align="center">
   <strong>
     🛡️ Cybersecurity Student &nbsp;|&nbsp; 🧠 Slow Learner, Fast Builder &nbsp;|&nbsp; 🚀 Blockchain Dev &nbsp;|&nbsp; 🤖 Automation Wizard
